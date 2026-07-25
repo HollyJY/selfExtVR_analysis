@@ -124,10 +124,10 @@ from statsmodels.formula.api import mixedlm
 
 # %% main model
 # rate ~ condition * voice_id + (1 | pp) + (1 | trial)
-list_resp = ['SoPA', 'SoNA', 'Accept', 'SoA']
-# list_resp = ['SoPA', 'SoNA', 'Accept']
+# list_resp_LMM = ['SoPA', 'SoNA', 'Accept', 'SoA']
+list_resp_LMM = ['SoPA', 'SoNA']
 
-for resp in list_resp:
+for resp in list_resp_LMM:
     md = mixedlm(
         f"{resp} ~ C(condition) * C(voice_id)",
         data=wide,
@@ -137,6 +137,7 @@ for resp in list_resp:
     )
     mdf = md.fit()
     print(mdf.summary())
+    
 
 # %% participant-level covariates
 # rate ~ condition * voice_id + AI_literacy_z + DoC_z + (1 | pp) + (1 | trial)
@@ -148,7 +149,7 @@ df_score = wide.merge(
     how="left"
 )
 
-for resp in list_resp:
+for resp in list_resp_LMM:
     md = mixedlm(
         f"{resp} ~ C(condition) * C(voice_id) + AI_literacy_z + DoC_z",
         data=df_score,
