@@ -1,6 +1,15 @@
-# data analysis
+# data analysis for extSelfVR
+2026.7.25
 
 ## STEPS
 
+### preprocess
 1. [x] combine data from server + HMD => `0_combine.py`
-2. [/] trial wise response data => `1-1_trial_wise_agency`
+2. [ ] interview transcription
+
+
+### analysis
+1. [ ] trial wise respond, LMM / CLMM
+2. [ ] LLM judge
+   1. [ ] pre
+   2. [ ] post on exp data
