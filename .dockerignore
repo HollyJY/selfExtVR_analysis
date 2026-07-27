@@ -1,0 +1,10 @@
+.git
+.agents
+.codex
+__pycache__/
+*.py[cod]
+.DS_Store
+data_raw/
+data_intermediate/
+archive/
+fig/
