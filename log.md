@@ -1,12 +1,25 @@
 @2026-07-25 sat
 - [ ] CLMM for acceptance
-- [ ] LLM model fitting whole process
+- [x] LLM for SoPA / SoNA, finished
+  - not norm assump test, finished residual check, basically okay
+  - [?] is it necessary? => should calculate Likelihood Ratio Test / AIC / BIC
+  - [ ] pairwise compare
+
+- LLM model fitting whole process
   - how to test assumption? => residuals ~ norm; fit model => test assumptions
     - Model diagnosis: plot the normality of the residuals and residuals vs prediction.
     ```python
     plot_lm_diagnosis(residual=lm_glob.resid,
                       prediction=lm_glob.predict(df), group=df.classroom)
     ```
+  - model behavior analysis
+    - Convergence: The model converged successfully.
+    - Residual centering: The residuals were approximately centered around zero.
+    - Normality of residuals: The Q-Q plot did not show severe deviations from normality.
+    - Homoscedasticity / model fit pattern: The residuals-vs-fitted plot did not show a clear systematic pattern, curvature, or funnel shape.
+    - **Influential cases**: There were no extreme influential participants or trials driving the results.=> leave 1 out trial / pp
+    - Random-effects variance: The random-effects variance estimates were reasonable, with no variance component estimated as implausibly close to zero or excessively large.
+    - Sensitivity analysis: adding covariates / not; **remove extreme residuals => fit model again; model structure**
   - Model Selection Criteria
     - tests whether adding random effects significantly improves the model.
       - Likelihood Ratio Test: whether adding random effects significantly improves the model
