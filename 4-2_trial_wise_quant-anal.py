@@ -1,28 +1,10 @@
 # %% [markdown]
 # # trial wise responses analysis
-# trial wise responses: agency + acceptance
-# * [x] remove incomplete trials (std = 0 for all questions; llm failure)
-#   * [ ] LLM failures
-# * [x] calculate SoPA, SoNA, acceptance, SoA
-#   * [ ] pairwise comparison
+
+# * [x] LMM: linear mixed effects model
+# * [-] pairwise comparison => R
 # * [x] check the distribution of the residual of LMM
 # * [ ] acceptance: cumulative link mixture models
-
-# ---
-# ### sense of agency
-# * SoPA (Sense of Positive Agency) — 5 items
-#   * [1,4,5,7,8]
-# * SoNA (Sense of Negative Agency) — 6 items
-# however, we drop quesion 6 (Cronbach's alpha < 0.7)
-#   * [2,3,6]
-
-# Scoring, for each participant:
-
-# * $\text{SoPA} = \frac{\sum \text{SoPA items}}{5}$
-
-# * $\text{SoNA} = \frac{\sum \text{SoNA items}}{6}$
-
-# * $\text{SoA} = \frac{\sum \text{SoA items}}{7}$
 
 # %%
 import pandas as pd
