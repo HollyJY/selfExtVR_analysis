@@ -192,10 +192,20 @@ def get_voice_id(row):
         return 'clone'
     else:
         return 'robotic'
+
+def get_scene_id(row):
+    pp = row['pp']
+    trial = row['trial']
+    df_pp = df_all_scale[df_all_scale['pp'] == pp]
+    scene_id = df_all_expInfo[(df_all_expInfo['pp'] == pp) & (df_all_expInfo['trial'] == trial)]['scene_id'].values
+    if len(scene_id) > 0:
+        return scene_id[0]
+    else:
+        return None
     
 df_all_scale['condition'] = df_all_scale.apply(get_condition, axis=1)
 df_all_scale['voice_id'] = df_all_scale.apply(get_voice_id, axis=1)
-
+df_all_scale['scene_id'] = df_all_scale.apply(get_scene_id, axis=1)
 df_all_scale.to_csv('data_analysis/trial_wise_resp.csv', index=False)
 
 # %%

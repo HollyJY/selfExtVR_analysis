@@ -41,7 +41,7 @@ df = df_1[df_1["_merge"] == "left_only"].drop(columns="_merge")
 wide.drop(to_remove_pairs.index, inplace=True)
 display(wide['pp'].value_counts()[wide['pp'].value_counts()<12])
 
-df.to_csv('data_analysis/trial_wise_response_dropped_1.csv', index=False)
+df.to_csv('data_analysis/trial_wise_resp_dropped_1.csv', index=False)
 df_ct = df['pp'].value_counts()
 display(df_ct[df_ct < 108])
 
