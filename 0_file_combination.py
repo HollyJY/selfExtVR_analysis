@@ -196,6 +196,6 @@ def get_voice_id(row):
 df_all_scale['condition'] = df_all_scale.apply(get_condition, axis=1)
 df_all_scale['voice_id'] = df_all_scale.apply(get_voice_id, axis=1)
 
-df_all_scale.to_csv('data_analysis/trial_wise_responses.csv', index=False)
+df_all_scale.to_csv('data_analysis/trial_wise_resp.csv', index=False)
 
 # %%

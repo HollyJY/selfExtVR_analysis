@@ -15,7 +15,7 @@ import seaborn as sns
 import HZutil
 
 # %%
-path = "data_analysis/trial_wise_responses_dropped_1.csv"
+path = "data_analysis/trial_wise_resp_dropped_1.csv"
 df = pd.read_csv(path)
 df.head(3)
 
@@ -107,4 +107,8 @@ for col in negative.columns:
 # "0.20–0.30 Weak but often usable"
 
 
+# %%
+df = pd.read_csv("data_analysis/trial_wise_resp_dropped_1.csv")
+df.drop(df[df['question_index']==6].index, inplace=True)
+df.to_csv("data_analysis/trial_wise_resp_dropped_2_ques6.csv", index=False)
 # %%
