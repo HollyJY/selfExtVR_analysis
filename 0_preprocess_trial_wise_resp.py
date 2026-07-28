@@ -16,7 +16,7 @@ df.head(3)
 
 # %% => wide table, for checking each trial
 wide = df.pivot_table(
-    index=["pp", "trial", "voice_id", "condition"],
+    index=["pp", "trial", "voice_id", "condition", "scene_id"],
     columns="question_index",
     values="answer_index",
     aggfunc="mean"
@@ -73,7 +73,7 @@ display(wide.head(3))
 wide.to_csv('data_analysis/trial_wise_SoA_cleaned_wide.csv', index=False)
 
 long = wide.melt(
-    id_vars=["pp", "trial", "voice_id", "condition"],
+    id_vars=["pp", "trial", "voice_id", "condition", "scene_id"],
     var_name="response_type",
     value_name="rate"
 )
