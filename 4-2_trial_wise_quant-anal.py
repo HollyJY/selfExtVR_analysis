@@ -56,7 +56,7 @@ g = sns.catplot(
 g.figure.suptitle("Responses")
 g.figure.set_size_inches(12, 4)
 g.tight_layout()
-# g.savefig('fig/response_distribution.png', dpi=1000)
+g.savefig('fig/response_distribution.png', dpi=1000)
 
 # 1. histplot
 g = sns.FacetGrid(long, col="response_type", margin_titles=True)
@@ -124,16 +124,14 @@ def random_effects_variance(mdf):
     return
 
 # %% main model
-# rate ~ condition * voice_id + (1 | pp) + (1 | trial)
-
+# rate ~ condition * voice_id + (1 | pp)
+display(wide.head(3))
 
 for resp in li_resp_LMM:
     md = mixedlm(
         f"{resp} ~ C(condition) * C(voice_id)",
         data=wide,
         groups=wide["pp"],
-        re_formula="1",
-        vc_formula={"trial": "0 + C(trial)"}
     )
     mdf = md.fit()
     print(mdf.summary())
@@ -144,7 +142,9 @@ for resp in li_resp_LMM:
 
 
 # %% participant-level covariates
-# rate ~ condition * voice_id + AI_literacy_z + DoC_z + (1 | pp) + (1 | trial)
+# rate ~ condition * voice_id + AI_literacy_z + DoC_z + (1 | pp) + (1 | scene_id)
+# covariates: AI literacy, DoC, fixed effects
+# random effects / intercepts: pp, scene_id
 
 df_traits = pd.read_csv('data_analysis/pp_traits.csv')
 df_score = wide.merge(
@@ -159,7 +159,7 @@ for resp in li_resp_LMM:
         data=df_score,
         groups=df_score["pp"],
         re_formula="1",
-        vc_formula={"trial": "0 + C(trial)"}
+        vc_formula={"scene_id": "0 + C(scene_id)"}
     )
     mdf = md.fit()
     print(mdf.summary())
