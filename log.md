@@ -1,4 +1,10 @@
-@2026-07-25 sat
+# @2026-07-28 tue
+
+
+
+---
+
+# @2026-07-25 sat
 - [ ] CLMM for acceptance
 - [x] LLM for SoPA / SoNA, finished
   - not norm assump test, finished residual check, basically okay

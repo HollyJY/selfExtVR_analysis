@@ -13,6 +13,9 @@
 
 # @2026-07-27 mon
 
+1. check whether any of the he prev 5 flagged items (5, 6, 7, 9, 11) in 1-scale.md are dragging alpha down. if dropping one meaningfully improves reliability, then we remove that item altogether. **we do however need to report both versions (alpha with all items vs. alpha with the item removed)** if we do that, so please log everything (edited) 
+3. ensure in paper we report it as **an adapted scale**, explicitly, every time it’s mentioned. something like “adapted Sense of Positive/Negative Agency subscales \cite{tapal2017}“, modified for avatar-mediated speech; item wording provided in Appendix X.” we then include our adaptation table (attached above) as supplementary material
+4. we mention this as limitation in our Study Limitations. that is, **we don’t do a full psychometric validation (e.g., confirmatory factor analysis)** of the adapted scale as that wasn’t feasible and out of scope. however this also shows the necessity for new valdiated measures of self-extension to AI avatars, so flip it as a good thing
 
 # @2026-07-24 fri
 - [?] how to count SoA
