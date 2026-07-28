@@ -81,3 +81,11 @@ display(long.head(3))
 long.to_csv('data_analysis/trial_wise_SoA_cleaned_long.csv', index=False)
 
 # %%
+# check if pp are complete
+df = pd.read_csv('data_analysis/trial_wise_SoA_cleaned_long.csv')
+df_ct = df['pp'].value_counts()
+display(df_ct[df_ct < 108])
+
+# %%
+len(df_ct)
+# %%
