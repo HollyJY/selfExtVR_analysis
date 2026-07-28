@@ -4,6 +4,7 @@
 # * [x] remove incomplete trials (std = 0 for all questions; llm failure)
 #   * [ ] LLM failures
 # * [x] calculate SoPA, SoNA, acceptance, SoA
+#   * [ ] pairwise comparison
 # * [x] check the distribution of the residual of LMM
 # * [ ] acceptance: cumulative link mixture models
 
@@ -12,6 +13,7 @@
 # * SoPA (Sense of Positive Agency) — 5 items
 #   * [1,4,5,7,8]
 # * SoNA (Sense of Negative Agency) — 6 items
+# however, we drop quesion 6 (Cronbach's alpha < 0.7)
 #   * [2,3,6]
 
 # Scoring, for each participant:
@@ -20,7 +22,7 @@
 
 # * $\text{SoNA} = \frac{\sum \text{SoNA items}}{6}$
 
-# * ❓$\text{SoA} = \text{SoPA} - \text{SoNA}$
+# * $\text{SoA} = \frac{\sum \text{SoA items}}{7}$
 
 # %%
 import pandas as pd
@@ -30,6 +32,10 @@ import numpy as np
 import scipy.stats as stats
 
 import HZutil
+
+# %%
+li_resp_LMM = ['SoPA', 'SoNA', 'SoA']
+li_resp_CLMM = ['Accept']
 
 # %% read file
 long = pd.read_csv('data_analysis/trial_wise_SoA_cleaned_long.csv')
@@ -119,10 +125,9 @@ def random_effects_variance(mdf):
 
 # %% main model
 # rate ~ condition * voice_id + (1 | pp) + (1 | trial)
-# list_resp_LMM = ['SoPA', 'SoNA', 'Accept', 'SoA']
-list_resp_LMM = ['SoPA', 'SoNA']
 
-for resp in list_resp_LMM:
+
+for resp in li_resp_LMM:
     md = mixedlm(
         f"{resp} ~ C(condition) * C(voice_id)",
         data=wide,
@@ -148,7 +153,7 @@ df_score = wide.merge(
     how="left"
 )
 
-for resp in list_resp_LMM:
+for resp in li_resp_LMM:
     md = mixedlm(
         f"{resp} ~ C(condition) * C(voice_id) + AI_literacy_z + DoC_z",
         data=df_score,
