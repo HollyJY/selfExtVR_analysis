@@ -108,7 +108,7 @@ for col in negative.columns:
 
 
 # %%
-df = pd.read_csv("data_analysis/trial_wise_resp_dropped_1.csv")
-df.drop(df[df['question_index']==6].index, inplace=True)
-df.to_csv("data_analysis/trial_wise_resp_dropped_2_ques6.csv", index=False)
+# df = pd.read_csv("data_analysis/trial_wise_resp_dropped_1.csv")
+# df.drop(df[df['question_index']==6].index, inplace=True)
+# df.to_csv("data_analysis/trial_wise_resp_dropped_2_ques6.csv", index=False)
 # %%

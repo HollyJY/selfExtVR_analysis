@@ -2,6 +2,7 @@
 # # trial wise responses preprocess
 # - [x] drop incomplete trials (std = 0 for all questions)
 # - [ ] llm failure
+# - [ ] drop quesion 6 (negative item) for reliability analysis
 # - [x] calculate SoPA, SoNA, acceptance, SoA
 
 # %%
@@ -46,13 +47,27 @@ display(df_ct[df_ct < 108])
 
 # TODO: LLM trial wise results => if doing work correctly
 
+# %%
+# drop question 6 (negative item) for reliability analysis
+df = pd.read_csv("data_analysis/trial_wise_resp_dropped_1.csv")
+df.drop(df[df['question_index']==6].index, inplace=True)
+df.to_csv("data_analysis/trial_wise_resp_dropped_2_ques6.csv", index=False)
+
 # %% 
 # calculate SoPA, SoNA, acceptance, SoPA
 wide['SoPA'] = wide[[1, 4, 5, 7, 8]].mean(axis=1)
-wide['SoNA'] = wide[[2, 3, 6]].mean(axis=1)
+wide['SoNA'] = wide[[2, 3]].mean(axis=1) # drop question 6
+
 wide['Accept'] = wide[[9]]
-# FIXME: how to calculate SoA?
-wide['SoA'] = wide['SoPA'] - wide['SoNA']
+
+display(wide.head(6))
+
+# FIXME: how to calculate SoA? => reverse, 8-negative rating, average
+# wide['SoA'] = wide['SoPA'] - wide['SoNA']
+for i in [2,3]:
+    wide[i] = 8 - wide[i]  # reverse
+wide['SoA'] = wide[[1, 2, 3, 4, 5, 7, 8]].mean(axis=1) # drop ques 6
+
 wide.drop(columns=['ans_sd',1,2,3,4,5,6,7,8,9], inplace=True)
 display(wide.head(3))
 wide.to_csv('data_analysis/trial_wise_SoA_cleaned_wide.csv', index=False)
