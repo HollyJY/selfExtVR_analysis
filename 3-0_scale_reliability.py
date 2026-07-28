@@ -4,6 +4,8 @@
 
 # There are different reports about the acceptable values of alpha, ranging from 0.70 to 0.95.
 
+# conclusion @2026-07-28: combine SoNA, SoPA; drop question 6; use SoPA/SoNA as secondary analysis
+
 
 # %%
 import pandas as pd
