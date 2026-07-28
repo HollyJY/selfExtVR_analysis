@@ -62,7 +62,7 @@ wide['Accept'] = wide[[9]]
 
 display(wide.head(6))
 
-# FIXME: how to calculate SoA? => reverse, 8-negative rating, average
+# how to calculate SoA? => reverse, 8-negative rating, average
 # wide['SoA'] = wide['SoPA'] - wide['SoNA']
 for i in [2,3]:
     wide[i] = 8 - wide[i]  # reverse
