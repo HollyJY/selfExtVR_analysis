@@ -15,7 +15,7 @@ import seaborn as sns
 import HZutil
 
 # %%
-path = "data_analysis/trial_wise_responses_cleaned.csv"
+path = "data_analysis/trial_wise_responses_dropped_1.csv"
 df = pd.read_csv(path)
 df.head(3)
 
