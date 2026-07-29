@@ -1,7 +1,5 @@
 # Proposed Data Tree
 
-This project should keep raw participant folders separate, then create stacked tables only for analysis. Do not stack or edit the raw files directly.
-
 ```text
 6_analysis/
 ├── README.md
