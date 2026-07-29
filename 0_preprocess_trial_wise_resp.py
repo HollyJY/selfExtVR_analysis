@@ -2,7 +2,7 @@
 # # trial wise responses preprocess
 # - [x] drop incomplete trials (std = 0 for all questions)
 # - [ ] llm failure
-# - [ ] drop quesion 6 (negative item) for reliability analysis
+# - [x] drop quesion 6 (negative item) for reliability analysis
 # - [x] calculate SoPA, SoNA, acceptance, SoA
 
 # %%
