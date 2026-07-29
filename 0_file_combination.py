@@ -32,13 +32,13 @@ print(len(to_combine))
 def read_asr(row):
     session = row["pp"]
     trial = int(row["trial"])
-
     path = os.path.join(
-        "data_extSelf_server",
-        session,
+        "data_raw/server",
+        f"{session}_session",
         f"trial_{trial:03d}",
         "user_1B_asr.txt"
     )
+
 
     if not os.path.exists(path):
         return None
@@ -51,8 +51,8 @@ def read_llm(row):
     trial = int(row["trial"])
 
     path = os.path.join(
-        "data_extSelf_server",
-        session,
+        "data_raw/server",
+        f"{session}_session",
         f"trial_{trial:03d}",
         "user_2B_llm.txt"
     )
@@ -98,10 +98,10 @@ for pp in to_combine:
     # read expInfo
 
     df = pd.read_csv(f'data_intermediate/{pp_id}/expInfo_{pp_id}.csv')
-    df.head(3)
     df['ans_ori'] = df.apply(read_asr, axis=1)
     df['ans_llm'] = df.apply(read_llm, axis=1)
     df['pp_id'] = pp_id
+    
     df.to_csv(f'{dst}/ans_llm_{pp_id}.csv', index=False)
 
     # file #3: pre+post questionnaire data

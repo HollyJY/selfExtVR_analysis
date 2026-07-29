@@ -124,7 +124,7 @@ for resp in li_resp_LMM:
 
 
 # %% participant-level covariates
-# rate ~ condition * voice_id + AI_literacy_z + DoC_z + (1 | pp) + (1 | scene_id)
+# rate ~ condition * voice_id + AI_literacy_z + DoC_z + (1 | pp)
 # covariates: AI literacy, DoC, fixed effects
 # random effects / intercepts: pp, scene_id
 
@@ -141,7 +141,6 @@ for resp in li_resp_LMM:
         data=df_score,
         groups=df_score["pp"],
         re_formula="1",
-        vc_formula={"scene_id": "0 + C(scene_id)"}
     )
     mdf = md.fit()
     print(mdf.summary())
