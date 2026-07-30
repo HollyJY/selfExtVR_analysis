@@ -41,4 +41,15 @@ df_doc_all['DoC_z'] = df_doc_all['DoC'].transform(lambda x: (x - x.mean()) / x.s
 
 df_traits = pd.merge(df_ai_all, df_doc_all, on='pp', how='outer')
 df_traits.to_csv('data_analysis/pp_traits.csv', index=False)
+
+# %%
+df_traits = pd.read_csv('data_analysis/pp_traits.csv')
+wide = pd.read_csv('data_analysis/trial_wise_SoA_cleaned_wide.csv')
+df_score = wide.merge(
+    df_traits[["pp", "AI_literacy_z", "DoC_z"]],
+    on="pp",
+    how="left"
+)
+df_score.to_csv("data_analysis/trial_wise_SoA_with_pp_traits.csv", index=False)
+
 # %%

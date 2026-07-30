@@ -21,7 +21,7 @@ li_resp_CLMM = ['Accept']
 
 # %% read file
 long = pd.read_csv('data_analysis/trial_wise_SoA_cleaned_long.csv')
-wide = pd.read_csv('data_analysis/trial_wise_SoA_cleaned_wide.csv')
+df_score = pd.read_csv('data_analysis/trial_wise_SoA_with_pp_traits.csv')
 
 # %% check distribution of the responses
 # not necessary!!!! because should check after fitting LLM, residuals
@@ -52,8 +52,8 @@ g.savefig('fig/response_distribution.png', dpi=1000)
 plt.subplots(1, 4, figsize=(12, 3))
 for i in range(4):
     plt.subplot(1, 4, i+1)
-    stats.probplot(wide.iloc[:, i+4].dropna(), dist="norm", plot=plt)
-    plt.title(wide.columns[i+4])
+    stats.probplot(df_score.iloc[:, i+4].dropna(), dist="norm", plot=plt)
+    plt.title(df_score.columns[i+4])
 plt.suptitle("Q-Q plot of responses")
 plt.tight_layout()
 plt.savefig('fig/response_qqplot.png', dpi=1000)
@@ -62,8 +62,8 @@ plt.show()
 # # Shapiro-Wilk test
 # from scipy.stats import shapiro
 
-# for col in wide.columns[4:]:
-#     stat, p = shapiro(wide[col].dropna())
+# for col in df_score.columns[4:]:
+#     stat, p = shapiro(df_score[col].dropna())
 #     print(f"{col}: stat={stat:.4f}, p={p:.4f}")
 
 # TODO: repeated-measures agency => check normality of residuals? 
@@ -107,13 +107,13 @@ def random_effects_variance(mdf):
 
 # %% main model
 # rate ~ condition * voice_id + (1 | pp)
-display(wide.head(3))
+display(df_score.head(3))
 
 for resp in li_resp_LMM:
     md = mixedlm(
         f"{resp} ~ C(condition) * C(voice_id)",
-        data=wide,
-        groups=wide["pp"],
+        data=df_score,
+        groups=df_score["pp"],
     )
     mdf = md.fit()
     print(mdf.summary())
@@ -126,14 +126,8 @@ for resp in li_resp_LMM:
 # %% participant-level covariates
 # rate ~ condition * voice_id + AI_literacy_z + DoC_z + (1 | pp)
 # covariates: AI literacy, DoC, fixed effects
-# random effects / intercepts: pp, scene_id
+# random effects / intercepts: pp
 
-df_traits = pd.read_csv('data_analysis/pp_traits.csv')
-df_score = wide.merge(
-    df_traits[["pp", "AI_literacy_z", "DoC_z"]],
-    on="pp",
-    how="left"
-)
 
 for resp in li_resp_LMM:
     md = mixedlm(
@@ -150,5 +144,5 @@ for resp in li_resp_LMM:
     plot_mixedlm_diagnostics(mdf, title=f"{resp} LMM diagnosis")
 
 # %%
-display(wide.head(3))
+display(df_score.head(3))
 # %%
