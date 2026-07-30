@@ -60,18 +60,18 @@ wide['SoNA'] = wide[[2, 3]].mean(axis=1) # drop question 6
 
 wide['Accept'] = wide[[9]]
 
-display(wide.head(6))
-
 # how to calculate SoA? => reverse, 8-negative rating, average
 # wide['SoA'] = wide['SoPA'] - wide['SoNA']
 for i in [2,3]:
     wide[i] = 8 - wide[i]  # reverse
 wide['SoA'] = wide[[1, 2, 3, 4, 5, 7, 8]].mean(axis=1) # drop ques 6
 
-wide.drop(columns=['ans_sd',1,2,3,4,5,6,7,8,9], inplace=True)
+wide[['Authorship']] = wide[[4]]
 display(wide.head(3))
 wide.to_csv('data_analysis/trial_wise_SoA_cleaned_wide.csv', index=False)
 
+wide.drop(columns=['ans_sd',1,2,3,4,5,6,7,8,9], inplace=True)
+# put into long table
 long = wide.melt(
     id_vars=["pp", "trial", "voice_id", "condition", "scene_id"],
     var_name="response_type",
