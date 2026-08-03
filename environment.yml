@@ -35,5 +35,6 @@ dependencies:
       - openai-whisper
       - pyannote.audio
       - huggingface_hub
+      - hf_transfer
       - pingouin
       - requests
