@@ -1,0 +1,39 @@
+name: selfextvr-analysis
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.10
+  - pip
+  - ffmpeg
+  - libopenblas
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - statsmodels
+  - pytorch=2.5.*
+  - torchaudio=2.5.*
+  - torchvision=0.20.*
+  - pytorch-cuda=12.4
+  - r-base=4.3
+  - r-irkernel
+  - r-tidyverse
+  - r-lme4
+  - r-lmertest
+  - r-ordinal
+  - r-emmeans
+  - r-effectsize
+  - r-performance
+  - pip:
+      - whisperx
+      - openai-whisper
+      - pyannote.audio
+      - huggingface_hub
+      - pingouin
+      - requests
