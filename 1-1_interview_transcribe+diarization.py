@@ -22,10 +22,16 @@ HF_API_TOKEN = os.getenv("HF_API_TOKEN")
 device = "cuda"
 path_folder_base = Path(__file__).resolve().parent / "data_raw" / "interviews"
 li_folders = sorted([f for f in path_folder_base.iterdir() if f.is_dir()])
+print(type(li_folders[0]))
 print(f"Found {len(li_folders)} interview folders under {path_folder_base}")
 
 li_none_audio = [f for f in li_folders if not any(f.rglob("*.m4a")) and not any(f.rglob("*.WAV"))]
+
+li_none_trans = [f for f in li_folders if not any(f.rglob("*.json")) and not any(f.rglob("*.txt"))]
 print(f"Found {len(li_none_audio)} folders with no .m4a or .WAV files: {[f.name for f in li_none_audio]}")
+print(f"Found {len(li_none_trans)} folders with no existing transcripts: {[f.name for f in li_none_trans]}")
+
+folder_to_process = [f for f in li_none_trans if f not in li_none_audio]
 
 # %%
 def format_interview_transcript(segments):
@@ -82,7 +88,7 @@ model = whisperx.load_model("base", device, compute_type=compute_type)
 diarize_model = DiarizationPipeline(token=HF_API_TOKEN, device=device)
 
 # %%
-for pp in li_folders:
+for pp in folder_to_process:
     # pp = "P01"
     path_folder_user = path_folder_base / pp
     path_folder_audio = path_folder_user / "audio"
