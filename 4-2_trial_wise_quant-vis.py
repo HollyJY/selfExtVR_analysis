@@ -50,35 +50,5 @@ plt.savefig('fig/acceptance_boxplot.png', dpi=1000)
 plt.show()
 
 # %%
-# secondary, separate SoPA / SoNA
-plt.subplots(1, 2, figsize=(10, 6), gridspec_kw={"width_ratios": [1, 1]},sharey=False)
-# plt.suptitle('SoPA and SoNA scores by content')
-plt.subplot(1, 2, 1)
-df_SoPA = df[df['response_type'] == 'SoPA']
-sns.boxplot(
-    data=df_SoPA,
-    x="condition",
-    y="rate",
-    hue="voice_id",
-    showfliers=True,
-    color = 'lightgreen'
-)
-plt.ylabel("SoPA")
-plt.title("SoPA by condition and voice_id")
-
-plt.subplot(1, 2, 2)
-df_SoNA = df[df['response_type'] == 'SoNA']
-sns.boxplot(
-    data=df_SoNA,
-    x="condition",
-    y="rate",
-    hue="voice_id",
-    showfliers=True,
-    color = "lightcoral"
-)
-plt.ylabel("SoNA")
-plt.title("SoNA by condition and voice_id")
-plt.tight_layout()
-plt.savefig('fig/SoPA_SoNA_boxplot.png', dpi=1000)
-plt.show()
+# authorship
 # %%

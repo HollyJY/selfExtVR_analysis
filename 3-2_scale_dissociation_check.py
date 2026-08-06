@@ -7,9 +7,8 @@
 
 # ---
 # stats
-# - [?] Repeated-measures correlation (rmcorr)
-#   - removes participant effect
-#   - "Repeated-measures correlation revealed a positive association between Agency and Acceptance, \(r_{rm}=0.xx\), 95% CI [...], \(p<.001\)."
+# - [ ] (what test to make)[https://yatani.jp/teaching/doku.php?id=hcistats:start]
+# - [ ] + corrections, multiple comparisons, etc.
 # - [?] what do i use for median split? (median, mean, quantile, etc.) 3/4?
 
 # %%
