@@ -27,11 +27,13 @@ print(f"Found {len(li_folders)} interview folders under {path_folder_base}")
 
 li_none_audio = [f for f in li_folders if not any(f.rglob("*.m4a")) and not any(f.rglob("*.WAV"))]
 
-li_none_trans = [f for f in li_folders if not any(f.rglob("*.json")) and not any(f.rglob("*.txt"))]
+# li_none_trans = [f for f in li_folders if not any(f.rglob("*.json")) and not any(f.rglob("*.txt"))]
 print(f"Found {len(li_none_audio)} folders with no .m4a or .WAV files: {[f.name for f in li_none_audio]}")
 print(f"Found {len(li_none_trans)} folders with no existing transcripts: {[f.name for f in li_none_trans]}")
 
-folder_to_process = [f for f in li_none_trans if f not in li_none_audio]
+# folder_to_process = [f for f in li_none_trans if f not in li_none_audio]
+folder_to_process = [f for f in li_folders if f not in li_none_audio]
+print(f"Found {len(folder_to_process)} folders to process: {[f.name for f in folder_to_process]}")
 
 # %%
 def format_interview_transcript(segments):
@@ -90,6 +92,7 @@ diarize_model = DiarizationPipeline(token=HF_API_TOKEN, device=device)
 # %%
 for pp in folder_to_process:
     # pp = "P01"
+    print(f"Processing participant: {pp.name}")
     path_folder_user = path_folder_base / pp
     path_folder_audio = path_folder_user / "audio"
     path_folder_transcripts = path_folder_user / "transcript"

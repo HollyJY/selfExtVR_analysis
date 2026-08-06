@@ -30,6 +30,7 @@ dependencies:
   - r-emmeans
   - r-effectsize
   - r-performance
+  - dotenv
   - pip:
       - whisperx
       - openai-whisper
