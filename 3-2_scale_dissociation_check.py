@@ -8,6 +8,7 @@
 # ---
 # stats
 # - [ ] (what test to make)[https://yatani.jp/teaching/doku.php?id=hcistats:start]
+#   - [x] test distribution of the data (normality, skewness, kurtosis) -> ggplot
 # - [ ] + corrections, multiple comparisons, etc.
 # - [?] what do i use for median split? (median, mean, quantile, etc.) 3/4?
 
@@ -16,6 +17,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pingouin as pg
+import scipy.stats as stats
 import HZutil
 
 # %%
@@ -28,62 +30,39 @@ df.head(3)
 li_keys = ["SoA", "Authorship", "Accept"]
 for key in li_keys:
     median = df[key].median()         # use median for split
+    print(f"{key} median: {median}")
     # median = 5 if key == "Accept" else 3  # for Accept, use 5 as the threshold
     df[key + "_high"] = df[key] > median
     df[key + "_low"] = df[key] <= median
 df.head(3)
 
+# 0: Check the distribution of the data
+# qqplot for each key
+plt.subplots(1, 3, figsize=(15, 4))
+for key in li_keys:
+    plt.subplot(1, 3, li_keys.index(key) + 1)
+    stats.probplot(df[key], dist="norm", plot=plt)
+
+plt.tight_layout()
+plt.show()
+
 # %%
 # 1: Check the correlation between Agency and Acceptance
-agency_acceptance = pg.rm_corr(
-    data=df,
-    x="SoA",
-    y="Accept",
-    subject="pp"
-)
-
-print(agency_acceptance)
-
-# plot
-plt.figure(figsize=(6, 6))
-sns.regplot(
-    data=df,
-    x="SoA",
-    y="Accept",
-    scatter_kws={"alpha":0.3}
-)
-plt.title("rmcorr: Agency vs. Acceptance, \nr_rm = {:.2f}, p = {:.2e}".format(agency_acceptance["r"].values[0], agency_acceptance["pval"].values[0]))
-plt.tight_layout()
-# plt.savefig("fig/3-2_scale_dissociation_check_agency_acceptance.png", dpi=1000)
-plt.show()
+li_combinations = [("SoA", "Accept"), ("Authorship", "Accept")]
+plt.subplots(1, 2, figsize=(12, 5), gridspec_kw={"width_ratios": [1, 1]}, sharey=False)
+for key1, key2 in li_combinations:
+    corr, p_value = stats.pearsonr(df[key1], df[key2])
+    plt.subplot(1, 2, li_combinations.index((key1, key2)) + 1)
+    sns.regplot(
+        data=df,
+        x=key1,
+        y=key2,
+    )
+    plt.title(f"Correlation between {key1} and {key2}: r = {corr:.3f}, p = {p_value:.3f}")
+    print(f"Correlation between {key1} and {key2}: r = {corr:.3f}, p = {p_value:.3f}")
 
 # %%
-# 2: Check the correlation between Authorship and Acceptance
-authorship_acceptance = pg.rm_corr(
-    data=df,
-    x="Authorship",
-    y="Accept",
-    subject="pp"
-)
-
-print(authorship_acceptance)
-
-# plot
-plt.figure(figsize=(6, 6))
-sns.regplot(
-    data=df,
-    x="Authorship",
-    y="Accept",
-    scatter_kws={"alpha":0.3},
-    color = "blue"
-)
-plt.title("rmcorr: Authorship vs. Acceptance, \nr_rm = {:.2f}, p = {:.2e}".format(authorship_acceptance["r"].values[0], authorship_acceptance["pval"].values[0]))
-plt.tight_layout()
-# plt.savefig("fig/3-2_scale_dissociation_check_authorship_acceptance.png", dpi=1000)
-plt.show()
-
-# %%
-# 3: Descriptive high/low split
+# 2: Descriptive high/low split
 def descriptive_split(df, key1, key2):
     split = df.groupby([key1 + "_high", key2 + "_high"]).size().reset_index(name="count")
     split[key1 + "_high"] = split[key1 + "_high"].map({True: "High " + key1, False: "Low " + key1})
@@ -125,10 +104,13 @@ for condition in conditions:
             split["key2"] = key2
             df_condition_counts = pd.concat([df_condition_counts, split], ignore_index=True)
             
-df_condition_counts.head(3)
+len(df_condition_counts)
 # %%
 # count only mismatch cases (high/low)
 for key1, key2 in li_combinations:
-    df_condition_counts[key1 + "_" + key2 + "_mismatch"] = df_condition_counts[(df_condition_counts["key1"] != df_condition_counts["key2"])]
-df_condition_counts.groupby(["condition","voice_id"]).sum().reset_index()
+    df_condition_counts[key1 + "_" + key2 + "_mismatch"] = df_condition_counts.apply(lambda row: row["key1"] != row["key2"], axis=1)
+    df_condition_counts[key1 + "_" + key2 + "_mismatch"].apply(lambda x: 1 if x else 0)
+df_condition_counts.head(3)
+# %%
+df_condition_counts.groupby(["condition","voice_id"])[['SoA_Accept_mismatch', 'Authorship_Accept_mismatch', 'SoA_Authorship_mismatch']].sum()
 # %%
