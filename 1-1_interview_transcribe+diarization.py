@@ -29,7 +29,7 @@ li_none_audio = [f for f in li_folders if not any(f.rglob("*.m4a")) and not any(
 
 # li_none_trans = [f for f in li_folders if not any(f.rglob("*.json")) and not any(f.rglob("*.txt"))]
 print(f"Found {len(li_none_audio)} folders with no .m4a or .WAV files: {[f.name for f in li_none_audio]}")
-print(f"Found {len(li_none_trans)} folders with no existing transcripts: {[f.name for f in li_none_trans]}")
+# print(f"Found {len(li_none_trans)} folders with no existing transcripts: {[f.name for f in li_none_trans]}")
 
 # folder_to_process = [f for f in li_none_trans if f not in li_none_audio]
 folder_to_process = [f for f in li_folders if f not in li_none_audio]
@@ -86,7 +86,7 @@ batch_size = 16 # reduce if low on GPU mem
 compute_type = "float16" # change to "int8" if low on GPU mem (may reduce accuracy)
 
 # load models outside the loop to avoid reloading for each interview
-model = whisperx.load_model("base", device, compute_type=compute_type)
+model = whisperx.load_model("large", device, compute_type=compute_type)
 diarize_model = DiarizationPipeline(token=HF_API_TOKEN, device=device)
 
 # %%

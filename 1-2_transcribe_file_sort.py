@@ -18,7 +18,7 @@ dst_base = Path("data_intermediate/")
 folders_pp = sorted([f for f in src_folder_base.iterdir() if f.is_dir()])
 
 # %%
-# move all clean.txt files to data_intermediate folder
+# copy all clean.txt files to data_intermediate folder
 for folder in folders_pp:
     src = folder
     pp = folder.name
