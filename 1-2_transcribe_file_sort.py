@@ -72,6 +72,9 @@ for index, folder in enumerate(folders_pp):
     if txt_files:
         txt_file = txt_files[0]
         text = txt_file.read_text(encoding="utf-8")
+    else:
+        print(f"{folder.name}: No txt files found.")
+        text = f"recording lost."
 
     # File name as heading
     document.add_heading(folder.name, level=1)
