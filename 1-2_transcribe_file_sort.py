@@ -29,8 +29,9 @@ for folder in folders_pp:
                 src_file = Path(root) / file
                 dst_file = dst_folder / file
                 dst_file.parent.mkdir(parents=True, exist_ok=True)
-                os.rename(src_file, dst_file)
-                print(f"Moved {src_file} to {dst_file}")
+                # copy instead of move, to keep the original files
+                dst_file.write_text(src_file.read_text(encoding="utf-8"), encoding="utf-8")
+                print(f"Copied {src_file} to {dst_file}")
             
 # %% 
 # file counts
