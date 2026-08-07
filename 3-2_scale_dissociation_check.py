@@ -58,8 +58,8 @@ for key1, key2 in li_combinations:
         x=key1,
         y=key2,
     )
-    plt.title(f"Correlation between {key1} and {key2}: r = {corr:.3f}, p = {p_value:.3f}")
-    print(f"Correlation between {key1} and {key2}: r = {corr:.3f}, p = {p_value:.3f}")
+    plt.title(f"Correlation between {key1} and {key2}:\n r = {corr:.3f}, p = {p_value:.3e}")
+    print(f"Correlation between {key1} and {key2}:\n r = {corr:.3f}, p = {p_value:.3e}")
 
 # %%
 # 2: Descriptive high/low split
@@ -75,15 +75,19 @@ li_combinations = [("SoA", "Accept"),
                 ("Authorship", "Accept"),
                 ("SoA", "Authorship"),
 ]
+
+plt.subplots(1, 3, figsize=(15, 4), gridspec_kw={"width_ratios": [1, 1, 1]}, sharey=False)
+
 for key1, key2 in li_combinations:
+    plt.subplot(1, 3, li_combinations.index((key1, key2)) + 1)
     split = descriptive_split(df, key1, key2)
-    plt.figure(figsize=(6, 4))
+    # plt.figure(figsize=(6, 4))
     sns.barplot(data=split, x=key1, y="count", hue=key2)
     plt.xticks([0, 1], [f"Low {key1}", f"High {key1}"])
     plt.title(f"Descriptive Split: {key1} vs. {key2}")
-    plt.tight_layout()
-    # plt.savefig(f"fig/3-2_descriptive_split_{key1}_{key2}.png", dpi=1000)
-    plt.show()
+plt.tight_layout()
+plt.savefig(f"fig/3-2_descriptive_split.png", dpi=1000)
+plt.show()
     
 # %%
 # for separate conditions, calculate do the count
