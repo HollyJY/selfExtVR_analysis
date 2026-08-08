@@ -1,0 +1,953 @@
+participant_id,section,index,question,answer,pp,AI_literacy
+P19,2-2,1,I can operate AI applications in everyday life.,6,P19,6.0
+P19,2-2,2,I can use AI applications to make my everyday life easier.,6,P19,6.0
+P19,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,6,P19,6.0
+P19,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P19,7.0
+P19,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P19,7.0
+P19,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,7-strongly agree,P19,7.0
+P19,2-2,7,I know the most important concepts of the topic artificial intelligence.,7-strongly agree,P19,7.0
+P19,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P19,7.0
+P19,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P19,7.0
+P19,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P19,7.0
+P19,2-2,11,I can think of new uses for AI.,6,P19,6.0
+P19,2-2,12,I can imagine possible future uses of AI.,6,P19,6.0
+P19,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,2,P19,2.0
+P19,2-2,14,I can distinguish devices that use AI from devices that do not.,4,P19,4.0
+P19,2-2,15,I can distinguish if I interact with an AI or a real human.,4,P19,4.0
+P19,2-2,16,I can weigh the consequences of using AI for society.,2,P19,2.0
+P19,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,2,P19,2.0
+P19,2-2,18,I can analyze AI-based applications for their ethical implications.,2,P19,2.0
+P19,2-2,19,I can design new AI applications.,5,P19,5.0
+P19,2-2,20,I can program new applications in the field of artificial intelligence.,5,P19,5.0
+P19,2-2,21,I can develop new AI applications.,5,P19,5.0
+P19,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,6,P19,6.0
+P19,2-2,23,I can rely on my skills in difficult situations when using AI.,6,P19,6.0
+P19,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,4,P19,4.0
+P19,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,4,P19,4.0
+P19,2-2,26,I can keep up with the latest innovations in AI applications.,4,P19,4.0
+P19,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P19,2.0
+P19,2-2,28,Although there are often new AI applications I manage to always be up to date.,2,P19,2.0
+P19,2-2,29,I do not let AI influence me in my everyday decisions.,7-strongly agree,P19,7.0
+P19,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,7-strongly agree,P19,7.0
+P19,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,1-strongly disagree,P19,1.0
+P19,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,4,P19,4.0
+P19,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,3,P19,3.0
+P19,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,2,P19,2.0
+P26,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P26,7.0
+P26,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P26,7.0
+P26,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,6,P26,6.0
+P26,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,6,P26,6.0
+P26,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,4,P26,4.0
+P26,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,4,P26,4.0
+P26,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P26,6.0
+P26,2-2,8,I know definitions of artificial intelligence.,5,P26,5.0
+P26,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P26,5.0
+P26,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,4,P26,4.0
+P26,2-2,11,I can think of new uses for AI.,3,P26,3.0
+P26,2-2,12,I can imagine possible future uses of AI.,4,P26,4.0
+P26,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,3,P26,3.0
+P26,2-2,14,I can distinguish devices that use AI from devices that do not.,3,P26,3.0
+P26,2-2,15,I can distinguish if I interact with an AI or a real human.,5,P26,5.0
+P26,2-2,16,I can weigh the consequences of using AI for society.,5,P26,5.0
+P26,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,4,P26,4.0
+P26,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P26,5.0
+P26,2-2,19,I can design new AI applications.,5,P26,5.0
+P26,2-2,20,I can program new applications in the field of artificial intelligence.,5,P26,5.0
+P26,2-2,21,I can develop new AI applications.,5,P26,5.0
+P26,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,6,P26,6.0
+P26,2-2,23,I can rely on my skills in difficult situations when using AI.,5,P26,5.0
+P26,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,5,P26,5.0
+P26,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P26,6.0
+P26,2-2,26,I can keep up with the latest innovations in AI applications.,5,P26,5.0
+P26,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P26,2.0
+P26,2-2,28,Although there are often new AI applications I manage to always be up to date.,2,P26,2.0
+P26,2-2,29,I do not let AI influence me in my everyday decisions.,3,P26,3.0
+P26,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,3,P26,3.0
+P26,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,3,P26,3.0
+P26,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,3,P26,3.0
+P26,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,4,P26,4.0
+P26,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,5,P26,5.0
+P21,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P21,7.0
+P21,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P21,7.0
+P21,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P21,7.0
+P21,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P21,7.0
+P21,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,6,P21,6.0
+P21,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P21,6.0
+P21,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P21,6.0
+P21,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P21,7.0
+P21,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P21,7.0
+P21,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P21,7.0
+P21,2-2,11,I can think of new uses for AI.,7-strongly agree,P21,7.0
+P21,2-2,12,I can imagine possible future uses of AI.,7-strongly agree,P21,7.0
+P21,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,6,P21,6.0
+P21,2-2,14,I can distinguish devices that use AI from devices that do not.,6,P21,6.0
+P21,2-2,15,I can distinguish if I interact with an AI or a real human.,7-strongly agree,P21,7.0
+P21,2-2,16,I can weigh the consequences of using AI for society.,7-strongly agree,P21,7.0
+P21,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P21,6.0
+P21,2-2,18,I can analyze AI-based applications for their ethical implications.,3,P21,3.0
+P21,2-2,19,I can design new AI applications.,4,P21,4.0
+P21,2-2,20,I can program new applications in the field of artificial intelligence.,5,P21,5.0
+P21,2-2,21,I can develop new AI applications.,5,P21,5.0
+P21,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,5,P21,5.0
+P21,2-2,23,I can rely on my skills in difficult situations when using AI.,5,P21,5.0
+P21,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P21,6.0
+P21,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P21,6.0
+P21,2-2,26,I can keep up with the latest innovations in AI applications.,6,P21,6.0
+P21,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,6,P21,6.0
+P21,2-2,28,Although there are often new AI applications I manage to always be up to date.,5,P21,5.0
+P21,2-2,29,I do not let AI influence me in my everyday decisions.,6,P21,6.0
+P21,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,6,P21,6.0
+P21,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P21,6.0
+P21,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,6,P21,6.0
+P21,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P21,6.0
+P21,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,7-strongly agree,P21,7.0
+P28,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P28,7.0
+P28,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P28,7.0
+P28,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,3,P28,3.0
+P28,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,6,P28,6.0
+P28,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,6,P28,6.0
+P28,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P28,6.0
+P28,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P28,6.0
+P28,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P28,7.0
+P28,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P28,7.0
+P28,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P28,7.0
+P28,2-2,11,I can think of new uses for AI.,7-strongly agree,P28,7.0
+P28,2-2,12,I can imagine possible future uses of AI.,7-strongly agree,P28,7.0
+P28,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P28,5.0
+P28,2-2,14,I can distinguish devices that use AI from devices that do not.,7-strongly agree,P28,7.0
+P28,2-2,15,I can distinguish if I interact with an AI or a real human.,6,P28,6.0
+P28,2-2,16,I can weigh the consequences of using AI for society.,3,P28,3.0
+P28,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,7-strongly agree,P28,7.0
+P28,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P28,5.0
+P28,2-2,19,I can design new AI applications.,6,P28,6.0
+P28,2-2,20,I can program new applications in the field of artificial intelligence.,6,P28,6.0
+P28,2-2,21,I can develop new AI applications.,7-strongly agree,P28,7.0
+P28,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,7-strongly agree,P28,7.0
+P28,2-2,23,I can rely on my skills in difficult situations when using AI.,7-strongly agree,P28,7.0
+P28,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P28,6.0
+P28,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,7-strongly agree,P28,7.0
+P28,2-2,26,I can keep up with the latest innovations in AI applications.,3,P28,3.0
+P28,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,3,P28,3.0
+P28,2-2,28,Although there are often new AI applications I manage to always be up to date.,3,P28,3.0
+P28,2-2,29,I do not let AI influence me in my everyday decisions.,6,P28,6.0
+P28,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,6,P28,6.0
+P28,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P28,5.0
+P28,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,5,P28,5.0
+P28,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P28,7.0
+P28,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P28,6.0
+P17,2-2,1,I can operate AI applications in everyday life.,6,P17,6.0
+P17,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P17,7.0
+P17,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P17,7.0
+P17,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P17,7.0
+P17,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,5,P17,5.0
+P17,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,4,P17,4.0
+P17,2-2,7,I know the most important concepts of the topic artificial intelligence.,5,P17,5.0
+P17,2-2,8,I know definitions of artificial intelligence.,6,P17,6.0
+P17,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P17,5.0
+P17,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P17,5.0
+P17,2-2,11,I can think of new uses for AI.,6,P17,6.0
+P17,2-2,12,I can imagine possible future uses of AI.,6,P17,6.0
+P17,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,7-strongly agree,P17,7.0
+P17,2-2,14,I can distinguish devices that use AI from devices that do not.,6,P17,6.0
+P17,2-2,15,I can distinguish if I interact with an AI or a real human.,7-strongly agree,P17,7.0
+P17,2-2,16,I can weigh the consequences of using AI for society.,5,P17,5.0
+P17,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P17,6.0
+P17,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P17,5.0
+P17,2-2,19,I can design new AI applications.,3,P17,3.0
+P17,2-2,20,I can program new applications in the field of artificial intelligence.,5,P17,5.0
+P17,2-2,21,I can develop new AI applications.,5,P17,5.0
+P17,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,4,P17,4.0
+P17,2-2,23,I can rely on my skills in difficult situations when using AI.,6,P17,6.0
+P17,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P17,6.0
+P17,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,5,P17,5.0
+P17,2-2,26,I can keep up with the latest innovations in AI applications.,5,P17,5.0
+P17,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,4,P17,4.0
+P17,2-2,28,Although there are often new AI applications I manage to always be up to date.,5,P17,5.0
+P17,2-2,29,I do not let AI influence me in my everyday decisions.,5,P17,5.0
+P17,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,7-strongly agree,P17,7.0
+P17,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,7-strongly agree,P17,7.0
+P17,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,7-strongly agree,P17,7.0
+P17,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P17,6.0
+P17,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P17,6.0
+P10,2-2,1,I can operate AI applications in everyday life.,5,P10,5.0
+P10,2-2,2,I can use AI applications to make my everyday life easier.,5,P10,5.0
+P10,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,4,P10,4.0
+P10,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,4,P10,4.0
+P10,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,4,P10,4.0
+P10,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,4,P10,4.0
+P10,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P10,6.0
+P10,2-2,8,I know definitions of artificial intelligence.,6,P10,6.0
+P10,2-2,9,I can assess what the limitations and opportunities of using an AI are.,6,P10,6.0
+P10,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,6,P10,6.0
+P10,2-2,11,I can think of new uses for AI.,4,P10,4.0
+P10,2-2,12,I can imagine possible future uses of AI.,4,P10,4.0
+P10,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,4,P10,4.0
+P10,2-2,14,I can distinguish devices that use AI from devices that do not.,3,P10,3.0
+P10,2-2,15,I can distinguish if I interact with an AI or a real human.,5,P10,5.0
+P10,2-2,16,I can weigh the consequences of using AI for society.,6,P10,6.0
+P10,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P10,6.0
+P10,2-2,18,I can analyze AI-based applications for their ethical implications.,4,P10,4.0
+P10,2-2,19,I can design new AI applications.,3,P10,3.0
+P10,2-2,20,I can program new applications in the field of artificial intelligence.,3,P10,3.0
+P10,2-2,21,I can develop new AI applications.,2,P10,2.0
+P10,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,3,P10,3.0
+P10,2-2,23,I can rely on my skills in difficult situations when using AI.,3,P10,3.0
+P10,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,3,P10,3.0
+P10,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,3,P10,3.0
+P10,2-2,26,I can keep up with the latest innovations in AI applications.,2,P10,2.0
+P10,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P10,2.0
+P10,2-2,28,Although there are often new AI applications I manage to always be up to date.,1-strongly disagree,P10,1.0
+P10,2-2,29,I do not let AI influence me in my everyday decisions.,6,P10,6.0
+P10,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,7-strongly agree,P10,7.0
+P10,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P10,6.0
+P10,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,2,P10,2.0
+P10,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,4,P10,4.0
+P10,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,5,P10,5.0
+P11,2-2,1,I can operate AI applications in everyday life.,4,P11,4.0
+P11,2-2,2,I can use AI applications to make my everyday life easier.,4,P11,4.0
+P11,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,4,P11,4.0
+P11,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,4,P11,4.0
+P11,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,4,P11,4.0
+P11,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,4,P11,4.0
+P11,2-2,7,I know the most important concepts of the topic artificial intelligence.,3,P11,3.0
+P11,2-2,8,I know definitions of artificial intelligence.,3,P11,3.0
+P11,2-2,9,I can assess what the limitations and opportunities of using an AI are.,3,P11,3.0
+P11,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,3,P11,3.0
+P11,2-2,11,I can think of new uses for AI.,1-strongly disagree,P11,1.0
+P11,2-2,12,I can imagine possible future uses of AI.,2,P11,2.0
+P11,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,2,P11,2.0
+P11,2-2,14,I can distinguish devices that use AI from devices that do not.,2,P11,2.0
+P11,2-2,15,I can distinguish if I interact with an AI or a real human.,2,P11,2.0
+P11,2-2,16,I can weigh the consequences of using AI for society.,2,P11,2.0
+P11,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,2,P11,2.0
+P11,2-2,18,I can analyze AI-based applications for their ethical implications.,2,P11,2.0
+P11,2-2,19,I can design new AI applications.,1-strongly disagree,P11,1.0
+P11,2-2,20,I can program new applications in the field of artificial intelligence.,1-strongly disagree,P11,1.0
+P11,2-2,21,I can develop new AI applications.,1-strongly disagree,P11,1.0
+P11,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,2,P11,2.0
+P11,2-2,23,I can rely on my skills in difficult situations when using AI.,2,P11,2.0
+P11,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,1-strongly disagree,P11,1.0
+P11,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,1-strongly disagree,P11,1.0
+P11,2-2,26,I can keep up with the latest innovations in AI applications.,1-strongly disagree,P11,1.0
+P11,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,1-strongly disagree,P11,1.0
+P11,2-2,28,Although there are often new AI applications I manage to always be up to date.,1-strongly disagree,P11,1.0
+P11,2-2,29,I do not let AI influence me in my everyday decisions.,3,P11,3.0
+P11,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,2,P11,2.0
+P11,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,4,P11,4.0
+P11,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,3,P11,3.0
+P11,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,4,P11,4.0
+P11,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,4,P11,4.0
+29,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P29,7.0
+29,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P29,7.0
+29,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P29,7.0
+29,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P29,7.0
+29,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P29,7.0
+29,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P29,6.0
+29,2-2,7,I know the most important concepts of the topic artificial intelligence.,5,P29,5.0
+29,2-2,8,I know definitions of artificial intelligence.,4,P29,4.0
+29,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P29,5.0
+29,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P29,5.0
+29,2-2,11,I can think of new uses for AI.,6,P29,6.0
+29,2-2,12,I can imagine possible future uses of AI.,6,P29,6.0
+29,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P29,5.0
+29,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P29,5.0
+29,2-2,15,I can distinguish if I interact with an AI or a real human.,7-strongly agree,P29,7.0
+29,2-2,16,I can weigh the consequences of using AI for society.,5,P29,5.0
+29,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,5,P29,5.0
+29,2-2,18,I can analyze AI-based applications for their ethical implications.,4,P29,4.0
+29,2-2,19,I can design new AI applications.,5,P29,5.0
+29,2-2,20,I can program new applications in the field of artificial intelligence.,2,P29,2.0
+29,2-2,21,I can develop new AI applications.,4,P29,4.0
+29,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,5,P29,5.0
+29,2-2,23,I can rely on my skills in difficult situations when using AI.,6,P29,6.0
+29,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,5,P29,5.0
+29,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,4,P29,4.0
+29,2-2,26,I can keep up with the latest innovations in AI applications.,2,P29,2.0
+29,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P29,2.0
+29,2-2,28,Although there are often new AI applications I manage to always be up to date.,2,P29,2.0
+29,2-2,29,I do not let AI influence me in my everyday decisions.,6,P29,6.0
+29,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,6,P29,6.0
+29,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P29,6.0
+29,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,6,P29,6.0
+29,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P29,6.0
+29,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P29,6.0
+P16,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P16,7.0
+P16,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P16,7.0
+P16,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P16,7.0
+P16,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,6,P16,6.0
+P16,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,5,P16,5.0
+P16,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P16,6.0
+P16,2-2,7,I know the most important concepts of the topic artificial intelligence.,7-strongly agree,P16,7.0
+P16,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P16,7.0
+P16,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P16,5.0
+P16,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,6,P16,6.0
+P16,2-2,11,I can think of new uses for AI.,6,P16,6.0
+P16,2-2,12,I can imagine possible future uses of AI.,6,P16,6.0
+P16,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P16,5.0
+P16,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P16,5.0
+P16,2-2,15,I can distinguish if I interact with an AI or a real human.,6,P16,6.0
+P16,2-2,16,I can weigh the consequences of using AI for society.,6,P16,6.0
+P16,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P16,6.0
+P16,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P16,5.0
+P16,2-2,19,I can design new AI applications.,5,P16,5.0
+P16,2-2,20,I can program new applications in the field of artificial intelligence.,6,P16,6.0
+P16,2-2,21,I can develop new AI applications.,6,P16,6.0
+P16,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,6,P16,6.0
+P16,2-2,23,I can rely on my skills in difficult situations when using AI.,6,P16,6.0
+P16,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P16,6.0
+P16,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P16,6.0
+P16,2-2,26,I can keep up with the latest innovations in AI applications.,6,P16,6.0
+P16,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,5,P16,5.0
+P16,2-2,28,Although there are often new AI applications I manage to always be up to date.,5,P16,5.0
+P16,2-2,29,I do not let AI influence me in my everyday decisions.,6,P16,6.0
+P16,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,6,P16,6.0
+P16,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P16,6.0
+P16,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,6,P16,6.0
+P16,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P16,6.0
+P16,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P16,6.0
+P18,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P18,7.0
+P18,2-2,2,I can use AI applications to make my everyday life easier.,6,P18,6.0
+P18,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,6,P18,6.0
+P18,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P18,7.0
+P18,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P18,7.0
+P18,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P18,6.0
+P18,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P18,6.0
+P18,2-2,8,I know definitions of artificial intelligence.,3,P18,3.0
+P18,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P18,5.0
+P18,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P18,5.0
+P18,2-2,11,I can think of new uses for AI.,6,P18,6.0
+P18,2-2,12,I can imagine possible future uses of AI.,7-strongly agree,P18,7.0
+P18,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,4,P18,4.0
+P18,2-2,14,I can distinguish devices that use AI from devices that do not.,4,P18,4.0
+P18,2-2,15,I can distinguish if I interact with an AI or a real human.,3,P18,3.0
+P18,2-2,16,I can weigh the consequences of using AI for society.,6,P18,6.0
+P18,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,1-strongly disagree,P18,1.0
+P18,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P18,5.0
+P18,2-2,19,I can design new AI applications.,3,P18,3.0
+P18,2-2,20,I can program new applications in the field of artificial intelligence.,5,P18,5.0
+P18,2-2,21,I can develop new AI applications.,5,P18,5.0
+P18,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,5,P18,5.0
+P18,2-2,23,I can rely on my skills in difficult situations when using AI.,3,P18,3.0
+P18,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P18,6.0
+P18,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,3,P18,3.0
+P18,2-2,26,I can keep up with the latest innovations in AI applications.,1-strongly disagree,P18,1.0
+P18,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,1-strongly disagree,P18,1.0
+P18,2-2,28,Although there are often new AI applications I manage to always be up to date.,1-strongly disagree,P18,1.0
+P18,2-2,29,I do not let AI influence me in my everyday decisions.,1-strongly disagree,P18,1.0
+P18,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,1-strongly disagree,P18,1.0
+P18,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,2,P18,2.0
+P18,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,5,P18,5.0
+P18,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P18,6.0
+P18,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,5,P18,5.0
+P11,2-2,1,I can operate AI applications in everyday life.,4,P27,4.0
+P11,2-2,2,I can use AI applications to make my everyday life easier.,6,P27,6.0
+P11,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P27,7.0
+P11,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,6,P27,6.0
+P11,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,5,P27,5.0
+P11,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,5,P27,5.0
+P11,2-2,7,I know the most important concepts of the topic artificial intelligence.,3,P27,3.0
+P11,2-2,8,I know definitions of artificial intelligence.,5,P27,5.0
+P11,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P27,5.0
+P11,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P27,5.0
+P11,2-2,11,I can think of new uses for AI.,5,P27,5.0
+P11,2-2,12,I can imagine possible future uses of AI.,7-strongly agree,P27,7.0
+P11,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,3,P27,3.0
+P11,2-2,14,I can distinguish devices that use AI from devices that do not.,3,P27,3.0
+P11,2-2,15,I can distinguish if I interact with an AI or a real human.,6,P27,6.0
+P11,2-2,16,I can weigh the consequences of using AI for society.,4,P27,4.0
+P11,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,4,P27,4.0
+P11,2-2,18,I can analyze AI-based applications for their ethical implications.,6,P27,6.0
+P11,2-2,19,I can design new AI applications.,7-strongly agree,P27,7.0
+P11,2-2,20,I can program new applications in the field of artificial intelligence.,6,P27,6.0
+P11,2-2,21,I can develop new AI applications.,3,P27,3.0
+P11,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,3,P27,3.0
+P11,2-2,23,I can rely on my skills in difficult situations when using AI.,3,P27,3.0
+P11,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,4,P27,4.0
+P11,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,4,P27,4.0
+P11,2-2,26,I can keep up with the latest innovations in AI applications.,1-strongly disagree,P27,1.0
+P11,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,1-strongly disagree,P27,1.0
+P11,2-2,28,Although there are often new AI applications I manage to always be up to date.,1-strongly disagree,P27,1.0
+P11,2-2,29,I do not let AI influence me in my everyday decisions.,5,P27,5.0
+P11,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,3,P27,3.0
+P11,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,7-strongly agree,P27,7.0
+P11,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,7-strongly agree,P27,7.0
+P11,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,5,P27,5.0
+P11,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,4,P27,4.0
+P05,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P05,7.0
+P05,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P05,7.0
+P05,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P05,7.0
+P05,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P05,7.0
+P05,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P05,7.0
+P05,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,7-strongly agree,P05,7.0
+P05,2-2,7,I know the most important concepts of the topic artificial intelligence.,4,P05,4.0
+P05,2-2,8,I know definitions of artificial intelligence.,5,P05,5.0
+P05,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P05,7.0
+P05,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P05,7.0
+P05,2-2,11,I can think of new uses for AI.,7-strongly agree,P05,7.0
+P05,2-2,12,I can imagine possible future uses of AI.,7-strongly agree,P05,7.0
+P05,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P05,5.0
+P05,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P05,5.0
+P05,2-2,15,I can distinguish if I interact with an AI or a real human.,4,P05,4.0
+P05,2-2,16,I can weigh the consequences of using AI for society.,7-strongly agree,P05,7.0
+P05,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,7-strongly agree,P05,7.0
+P05,2-2,18,I can analyze AI-based applications for their ethical implications.,7-strongly agree,P05,7.0
+P05,2-2,19,I can design new AI applications.,7-strongly agree,P05,7.0
+P05,2-2,20,I can program new applications in the field of artificial intelligence.,7-strongly agree,P05,7.0
+P05,2-2,21,I can develop new AI applications.,7-strongly agree,P05,7.0
+P05,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,7-strongly agree,P05,7.0
+P05,2-2,23,I can rely on my skills in difficult situations when using AI.,7-strongly agree,P05,7.0
+P05,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,7-strongly agree,P05,7.0
+P05,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,7-strongly agree,P05,7.0
+P05,2-2,26,I can keep up with the latest innovations in AI applications.,5,P05,5.0
+P05,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,5,P05,5.0
+P05,2-2,28,Although there are often new AI applications I manage to always be up to date.,5,P05,5.0
+P05,2-2,29,I do not let AI influence me in my everyday decisions.,5,P05,5.0
+P05,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,7-strongly agree,P05,7.0
+P05,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P05,5.0
+P05,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,7-strongly agree,P05,7.0
+P05,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P05,7.0
+P05,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,7-strongly agree,P05,7.0
+P02,2-2,1,I can operate AI applications in everyday life.,5,P02,5.0
+P02,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P02,7.0
+P02,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,5,P02,5.0
+P02,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P02,7.0
+P02,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,5,P02,5.0
+P02,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,5,P02,5.0
+P02,2-2,7,I know the most important concepts of the topic artificial intelligence.,5,P02,5.0
+P02,2-2,8,I know definitions of artificial intelligence.,5,P02,5.0
+P02,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P02,5.0
+P02,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,2,P02,2.0
+P02,2-2,11,I can think of new uses for AI.,6,P02,6.0
+P02,2-2,12,I can imagine possible future uses of AI.,6,P02,6.0
+P02,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,6,P02,6.0
+P02,2-2,14,I can distinguish devices that use AI from devices that do not.,6,P02,6.0
+P02,2-2,15,I can distinguish if I interact with an AI or a real human.,3,P02,3.0
+P02,2-2,16,I can weigh the consequences of using AI for society.,6,P02,6.0
+P02,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,5,P02,5.0
+P02,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P02,5.0
+P02,2-2,19,I can design new AI applications.,2,P02,2.0
+P02,2-2,20,I can program new applications in the field of artificial intelligence.,2,P02,2.0
+P02,2-2,21,I can develop new AI applications.,3,P02,3.0
+P02,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,5,P02,5.0
+P02,2-2,23,I can rely on my skills in difficult situations when using AI.,4,P02,4.0
+P02,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P02,6.0
+P02,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P02,6.0
+P02,2-2,26,I can keep up with the latest innovations in AI applications.,3,P02,3.0
+P02,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P02,2.0
+P02,2-2,28,Although there are often new AI applications I manage to always be up to date.,2,P02,2.0
+P02,2-2,29,I do not let AI influence me in my everyday decisions.,2,P02,2.0
+P02,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,3,P02,3.0
+P02,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P02,5.0
+P02,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,3,P02,3.0
+P02,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,5,P02,5.0
+P02,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,4,P02,4.0
+P03,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P03,7.0
+P03,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P03,7.0
+P03,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P03,7.0
+P03,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P03,7.0
+P03,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P03,7.0
+P03,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,7-strongly agree,P03,7.0
+P03,2-2,7,I know the most important concepts of the topic artificial intelligence.,4,P03,4.0
+P03,2-2,8,I know definitions of artificial intelligence.,5,P03,5.0
+P03,2-2,9,I can assess what the limitations and opportunities of using an AI are.,6,P03,6.0
+P03,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,6,P03,6.0
+P03,2-2,11,I can think of new uses for AI.,3,P03,3.0
+P03,2-2,12,I can imagine possible future uses of AI.,5,P03,5.0
+P03,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,4,P03,4.0
+P03,2-2,14,I can distinguish devices that use AI from devices that do not.,3,P03,3.0
+P03,2-2,15,I can distinguish if I interact with an AI or a real human.,4,P03,4.0
+P03,2-2,16,I can weigh the consequences of using AI for society.,4,P03,4.0
+P03,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P03,6.0
+P03,2-2,18,I can analyze AI-based applications for their ethical implications.,6,P03,6.0
+P03,2-2,19,I can design new AI applications.,1-strongly disagree,P03,1.0
+P03,2-2,20,I can program new applications in the field of artificial intelligence.,1-strongly disagree,P03,1.0
+P03,2-2,21,I can develop new AI applications.,1-strongly disagree,P03,1.0
+P03,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,1-strongly disagree,P03,1.0
+P03,2-2,23,I can rely on my skills in difficult situations when using AI.,6,P03,6.0
+P03,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,5,P03,5.0
+P03,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,7-strongly agree,P03,7.0
+P03,2-2,26,I can keep up with the latest innovations in AI applications.,5,P03,5.0
+P03,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,3,P03,3.0
+P03,2-2,28,Although there are often new AI applications I manage to always be up to date.,6,P03,6.0
+P03,2-2,29,I do not let AI influence me in my everyday decisions.,7-strongly agree,P03,7.0
+P03,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,6,P03,6.0
+P03,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P03,6.0
+P03,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,7-strongly agree,P03,7.0
+P03,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P03,7.0
+P03,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,7-strongly agree,P03,7.0
+P04,2-2,1,I can operate AI applications in everyday life.,6,P04,6.0
+P04,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P04,7.0
+P04,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,6,P04,6.0
+P04,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,6,P04,6.0
+P04,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,6,P04,6.0
+P04,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P04,6.0
+P04,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P04,6.0
+P04,2-2,8,I know definitions of artificial intelligence.,6,P04,6.0
+P04,2-2,9,I can assess what the limitations and opportunities of using an AI are.,6,P04,6.0
+P04,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,6,P04,6.0
+P04,2-2,11,I can think of new uses for AI.,4,P04,4.0
+P04,2-2,12,I can imagine possible future uses of AI.,6,P04,6.0
+P04,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,2,P04,2.0
+P04,2-2,14,I can distinguish devices that use AI from devices that do not.,2,P04,2.0
+P04,2-2,15,I can distinguish if I interact with an AI or a real human.,3,P04,3.0
+P04,2-2,16,I can weigh the consequences of using AI for society.,4,P04,4.0
+P04,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P04,6.0
+P04,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P04,5.0
+P04,2-2,19,I can design new AI applications.,3,P04,3.0
+P04,2-2,20,I can program new applications in the field of artificial intelligence.,2,P04,2.0
+P04,2-2,21,I can develop new AI applications.,2,P04,2.0
+P04,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,5,P04,5.0
+P04,2-2,23,I can rely on my skills in difficult situations when using AI.,5,P04,5.0
+P04,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,5,P04,5.0
+P04,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,5,P04,5.0
+P04,2-2,26,I can keep up with the latest innovations in AI applications.,5,P04,5.0
+P04,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,5,P04,5.0
+P04,2-2,28,Although there are often new AI applications I manage to always be up to date.,5,P04,5.0
+P04,2-2,29,I do not let AI influence me in my everyday decisions.,3,P04,3.0
+P04,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,2,P04,2.0
+P04,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P04,5.0
+P04,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,6,P04,6.0
+P04,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P04,6.0
+P04,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,5,P04,5.0
+P22,2-2,1,I can operate AI applications in everyday life.,5,P22,5.0
+P22,2-2,2,I can use AI applications to make my everyday life easier.,4,P22,4.0
+P22,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,5,P22,5.0
+P22,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,4,P22,4.0
+P22,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,4,P22,4.0
+P22,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,4,P22,4.0
+P22,2-2,7,I know the most important concepts of the topic artificial intelligence.,5,P22,5.0
+P22,2-2,8,I know definitions of artificial intelligence.,5,P22,5.0
+P22,2-2,9,I can assess what the limitations and opportunities of using an AI are.,6,P22,6.0
+P22,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P22,5.0
+P22,2-2,11,I can think of new uses for AI.,3,P22,3.0
+P22,2-2,12,I can imagine possible future uses of AI.,3,P22,3.0
+P22,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P22,5.0
+P22,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P22,5.0
+P22,2-2,15,I can distinguish if I interact with an AI or a real human.,4,P22,4.0
+P22,2-2,16,I can weigh the consequences of using AI for society.,5,P22,5.0
+P22,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,5,P22,5.0
+P22,2-2,18,I can analyze AI-based applications for their ethical implications.,4,P22,4.0
+P22,2-2,19,I can design new AI applications.,3,P22,3.0
+P22,2-2,20,I can program new applications in the field of artificial intelligence.,3,P22,3.0
+P22,2-2,21,I can develop new AI applications.,3,P22,3.0
+P22,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,3,P22,3.0
+P22,2-2,23,I can rely on my skills in difficult situations when using AI.,4,P22,4.0
+P22,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,5,P22,5.0
+P22,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,5,P22,5.0
+P22,2-2,26,I can keep up with the latest innovations in AI applications.,3,P22,3.0
+P22,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,3,P22,3.0
+P22,2-2,28,Although there are often new AI applications I manage to always be up to date.,3,P22,3.0
+P22,2-2,29,I do not let AI influence me in my everyday decisions.,5,P22,5.0
+P22,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,5,P22,5.0
+P22,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P22,5.0
+P22,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,4,P22,4.0
+P22,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,4,P22,4.0
+P22,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P22,6.0
+P25,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P25,7.0
+P25,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P25,7.0
+P25,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P25,7.0
+P25,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P25,7.0
+P25,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P25,7.0
+P25,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,7-strongly agree,P25,7.0
+P25,2-2,7,I know the most important concepts of the topic artificial intelligence.,7-strongly agree,P25,7.0
+P25,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P25,7.0
+P25,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P25,7.0
+P25,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P25,7.0
+P25,2-2,11,I can think of new uses for AI.,5,P25,5.0
+P25,2-2,12,I can imagine possible future uses of AI.,5,P25,5.0
+P25,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,6,P25,6.0
+P25,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P25,5.0
+P25,2-2,15,I can distinguish if I interact with an AI or a real human.,6,P25,6.0
+P25,2-2,16,I can weigh the consequences of using AI for society.,5,P25,5.0
+P25,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P25,6.0
+P25,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P25,5.0
+P25,2-2,19,I can design new AI applications.,5,P25,5.0
+P25,2-2,20,I can program new applications in the field of artificial intelligence.,5,P25,5.0
+P25,2-2,21,I can develop new AI applications.,4,P25,4.0
+P25,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,6,P25,6.0
+P25,2-2,23,I can rely on my skills in difficult situations when using AI.,7-strongly agree,P25,7.0
+P25,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P25,6.0
+P25,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P25,6.0
+P25,2-2,26,I can keep up with the latest innovations in AI applications.,5,P25,5.0
+P25,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,3,P25,3.0
+P25,2-2,28,Although there are often new AI applications I manage to always be up to date.,3,P25,3.0
+P25,2-2,29,I do not let AI influence me in my everyday decisions.,4,P25,4.0
+P25,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,3,P25,3.0
+P25,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P25,6.0
+P25,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,5,P25,5.0
+P25,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P25,6.0
+P25,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,7-strongly agree,P25,7.0
+P13,2-2,1,I can operate AI applications in everyday life.,5,P13,5.0
+P13,2-2,2,I can use AI applications to make my everyday life easier.,6,P13,6.0
+P13,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,2,P13,2.0
+P13,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P13,7.0
+P13,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,6,P13,6.0
+P13,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,2,P13,2.0
+P13,2-2,7,I know the most important concepts of the topic artificial intelligence.,5,P13,5.0
+P13,2-2,8,I know definitions of artificial intelligence.,5,P13,5.0
+P13,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P13,5.0
+P13,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P13,5.0
+P13,2-2,11,I can think of new uses for AI.,4,P13,4.0
+P13,2-2,12,I can imagine possible future uses of AI.,6,P13,6.0
+P13,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,6,P13,6.0
+P13,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P13,5.0
+P13,2-2,15,I can distinguish if I interact with an AI or a real human.,7-strongly agree,P13,7.0
+P13,2-2,16,I can weigh the consequences of using AI for society.,4,P13,4.0
+P13,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,6,P13,6.0
+P13,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P13,5.0
+P13,2-2,19,I can design new AI applications.,7-strongly agree,P13,7.0
+P13,2-2,20,I can program new applications in the field of artificial intelligence.,7-strongly agree,P13,7.0
+P13,2-2,21,I can develop new AI applications.,7-strongly agree,P13,7.0
+P13,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,7-strongly agree,P13,7.0
+P13,2-2,23,I can rely on my skills in difficult situations when using AI.,7-strongly agree,P13,7.0
+P13,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,7-strongly agree,P13,7.0
+P13,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P13,6.0
+P13,2-2,26,I can keep up with the latest innovations in AI applications.,2,P13,2.0
+P13,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P13,2.0
+P13,2-2,28,Although there are often new AI applications I manage to always be up to date.,2,P13,2.0
+P13,2-2,29,I do not let AI influence me in my everyday decisions.,7-strongly agree,P13,7.0
+P13,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,7-strongly agree,P13,7.0
+P13,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,7-strongly agree,P13,7.0
+P13,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,7-strongly agree,P13,7.0
+P13,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P13,7.0
+P13,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,7-strongly agree,P13,7.0
+P14,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P14,7.0
+P14,2-2,2,I can use AI applications to make my everyday life easier.,6,P14,6.0
+P14,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P14,7.0
+P14,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P14,7.0
+P14,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P14,7.0
+P14,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,7-strongly agree,P14,7.0
+P14,2-2,7,I know the most important concepts of the topic artificial intelligence.,7-strongly agree,P14,7.0
+P14,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P14,7.0
+P14,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P14,7.0
+P14,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P14,7.0
+P14,2-2,11,I can think of new uses for AI.,5,P14,5.0
+P14,2-2,12,I can imagine possible future uses of AI.,6,P14,6.0
+P14,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,7-strongly agree,P14,7.0
+P14,2-2,14,I can distinguish devices that use AI from devices that do not.,6,P14,6.0
+P14,2-2,15,I can distinguish if I interact with an AI or a real human.,6,P14,6.0
+P14,2-2,16,I can weigh the consequences of using AI for society.,7-strongly agree,P14,7.0
+P14,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,7-strongly agree,P14,7.0
+P14,2-2,18,I can analyze AI-based applications for their ethical implications.,7-strongly agree,P14,7.0
+P14,2-2,19,I can design new AI applications.,7-strongly agree,P14,7.0
+P14,2-2,20,I can program new applications in the field of artificial intelligence.,7-strongly agree,P14,7.0
+P14,2-2,21,I can develop new AI applications.,7-strongly agree,P14,7.0
+P14,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,7-strongly agree,P14,7.0
+P14,2-2,23,I can rely on my skills in difficult situations when using AI.,4,P14,4.0
+P14,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,7-strongly agree,P14,7.0
+P14,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P14,6.0
+P14,2-2,26,I can keep up with the latest innovations in AI applications.,7-strongly agree,P14,7.0
+P14,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,6,P14,6.0
+P14,2-2,28,Although there are often new AI applications I manage to always be up to date.,6,P14,6.0
+P14,2-2,29,I do not let AI influence me in my everyday decisions.,3,P14,3.0
+P14,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,5,P14,5.0
+P14,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P14,5.0
+P14,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,4,P14,4.0
+P14,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P14,7.0
+P14,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,7-strongly agree,P14,7.0
+P15,2-2,1,I can operate AI applications in everyday life.,1-strongly disagree,P15,1.0
+P15,2-2,2,I can use AI applications to make my everyday life easier.,4,P15,4.0
+P15,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,1-strongly disagree,P15,1.0
+P15,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,4,P15,4.0
+P15,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,3,P15,3.0
+P15,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,3,P15,3.0
+P15,2-2,7,I know the most important concepts of the topic artificial intelligence.,1-strongly disagree,P15,1.0
+P15,2-2,8,I know definitions of artificial intelligence.,1-strongly disagree,P15,1.0
+P15,2-2,9,I can assess what the limitations and opportunities of using an AI are.,2,P15,2.0
+P15,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,2,P15,2.0
+P15,2-2,11,I can think of new uses for AI.,1-strongly disagree,P15,1.0
+P15,2-2,12,I can imagine possible future uses of AI.,4,P15,4.0
+P15,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,3,P15,3.0
+P15,2-2,14,I can distinguish devices that use AI from devices that do not.,4,P15,4.0
+P15,2-2,15,I can distinguish if I interact with an AI or a real human.,5,P15,5.0
+P15,2-2,16,I can weigh the consequences of using AI for society.,5,P15,5.0
+P15,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,5,P15,5.0
+P15,2-2,18,I can analyze AI-based applications for their ethical implications.,4,P15,4.0
+P15,2-2,19,I can design new AI applications.,1-strongly disagree,P15,1.0
+P15,2-2,20,I can program new applications in the field of artificial intelligence.,1-strongly disagree,P15,1.0
+P15,2-2,21,I can develop new AI applications.,1-strongly disagree,P15,1.0
+P15,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,3,P15,3.0
+P15,2-2,23,I can rely on my skills in difficult situations when using AI.,3,P15,3.0
+P15,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,4,P15,4.0
+P15,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,3,P15,3.0
+P15,2-2,26,I can keep up with the latest innovations in AI applications.,3,P15,3.0
+P15,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P15,2.0
+P15,2-2,28,Although there are often new AI applications I manage to always be up to date.,2,P15,2.0
+P15,2-2,29,I do not let AI influence me in my everyday decisions.,7-strongly agree,P15,7.0
+P15,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,6,P15,6.0
+P15,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,7-strongly agree,P15,7.0
+P15,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,4,P15,4.0
+P15,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,5,P15,5.0
+P15,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,4,P15,4.0
+P12,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P12,7.0
+P12,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P12,7.0
+P12,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P12,7.0
+P12,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P12,7.0
+P12,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P12,7.0
+P12,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P12,6.0
+P12,2-2,7,I know the most important concepts of the topic artificial intelligence.,5,P12,5.0
+P12,2-2,8,I know definitions of artificial intelligence.,5,P12,5.0
+P12,2-2,9,I can assess what the limitations and opportunities of using an AI are.,6,P12,6.0
+P12,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,6,P12,6.0
+P12,2-2,11,I can think of new uses for AI.,3,P12,3.0
+P12,2-2,12,I can imagine possible future uses of AI.,3,P12,3.0
+P12,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,6,P12,6.0
+P12,2-2,14,I can distinguish devices that use AI from devices that do not.,6,P12,6.0
+P12,2-2,15,I can distinguish if I interact with an AI or a real human.,4,P12,4.0
+P12,2-2,16,I can weigh the consequences of using AI for society.,5,P12,5.0
+P12,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,3,P12,3.0
+P12,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P12,5.0
+P12,2-2,19,I can design new AI applications.,4,P12,4.0
+P12,2-2,20,I can program new applications in the field of artificial intelligence.,3,P12,3.0
+P12,2-2,21,I can develop new AI applications.,3,P12,3.0
+P12,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,1-strongly disagree,P12,1.0
+P12,2-2,23,I can rely on my skills in difficult situations when using AI.,6,P12,6.0
+P12,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,3,P12,3.0
+P12,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,5,P12,5.0
+P12,2-2,26,I can keep up with the latest innovations in AI applications.,5,P12,5.0
+P12,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,4,P12,4.0
+P12,2-2,28,Although there are often new AI applications I manage to always be up to date.,5,P12,5.0
+P12,2-2,29,I do not let AI influence me in my everyday decisions.,3,P12,3.0
+P12,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,3,P12,3.0
+P12,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P12,5.0
+P12,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,6,P12,6.0
+P12,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P12,6.0
+P12,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,5,P12,5.0
+P24,2-2,1,I can operate AI applications in everyday life.,3,P24,3.0
+P24,2-2,2,I can use AI applications to make my everyday life easier.,5,P24,5.0
+P24,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,5,P24,5.0
+P24,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,5,P24,5.0
+P24,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,4,P24,4.0
+P24,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,5,P24,5.0
+P24,2-2,7,I know the most important concepts of the topic artificial intelligence.,5,P24,5.0
+P24,2-2,8,I know definitions of artificial intelligence.,5,P24,5.0
+P24,2-2,9,I can assess what the limitations and opportunities of using an AI are.,4,P24,4.0
+P24,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,4,P24,4.0
+P24,2-2,11,I can think of new uses for AI.,4,P24,4.0
+P24,2-2,12,I can imagine possible future uses of AI.,4,P24,4.0
+P24,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P24,5.0
+P24,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P24,5.0
+P24,2-2,15,I can distinguish if I interact with an AI or a real human.,4,P24,4.0
+P24,2-2,16,I can weigh the consequences of using AI for society.,4,P24,4.0
+P24,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,4,P24,4.0
+P24,2-2,18,I can analyze AI-based applications for their ethical implications.,4,P24,4.0
+P24,2-2,19,I can design new AI applications.,4,P24,4.0
+P24,2-2,20,I can program new applications in the field of artificial intelligence.,4,P24,4.0
+P24,2-2,21,I can develop new AI applications.,4,P24,4.0
+P24,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,4,P24,4.0
+P24,2-2,23,I can rely on my skills in difficult situations when using AI.,4,P24,4.0
+P24,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,4,P24,4.0
+P24,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,4,P24,4.0
+P24,2-2,26,I can keep up with the latest innovations in AI applications.,4,P24,4.0
+P24,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,4,P24,4.0
+P24,2-2,28,Although there are often new AI applications I manage to always be up to date.,4,P24,4.0
+P24,2-2,29,I do not let AI influence me in my everyday decisions.,4,P24,4.0
+P24,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,4,P24,4.0
+P24,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,4,P24,4.0
+P24,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,4,P24,4.0
+P24,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,4,P24,4.0
+P24,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,4,P24,4.0
+P23,2-2,1,I can operate AI applications in everyday life.,5,P23,5.0
+P23,2-2,2,I can use AI applications to make my everyday life easier.,5,P23,5.0
+P23,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,6,P23,6.0
+P23,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,5,P23,5.0
+P23,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,6,P23,6.0
+P23,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P23,6.0
+P23,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P23,6.0
+P23,2-2,8,I know definitions of artificial intelligence.,5,P23,5.0
+P23,2-2,9,I can assess what the limitations and opportunities of using an AI are.,4,P23,4.0
+P23,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P23,5.0
+P23,2-2,11,I can think of new uses for AI.,3,P23,3.0
+P23,2-2,12,I can imagine possible future uses of AI.,4,P23,4.0
+P23,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,3,P23,3.0
+P23,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P23,5.0
+P23,2-2,15,I can distinguish if I interact with an AI or a real human.,5,P23,5.0
+P23,2-2,16,I can weigh the consequences of using AI for society.,5,P23,5.0
+P23,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,4,P23,4.0
+P23,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P23,5.0
+P23,2-2,19,I can design new AI applications.,1-strongly disagree,P23,1.0
+P23,2-2,20,I can program new applications in the field of artificial intelligence.,1-strongly disagree,P23,1.0
+P23,2-2,21,I can develop new AI applications.,1-strongly disagree,P23,1.0
+P23,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,2,P23,2.0
+P23,2-2,23,I can rely on my skills in difficult situations when using AI.,3,P23,3.0
+P23,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,5,P23,5.0
+P23,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,4,P23,4.0
+P23,2-2,26,I can keep up with the latest innovations in AI applications.,2,P23,2.0
+P23,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,2,P23,2.0
+P23,2-2,28,Although there are often new AI applications I manage to always be up to date.,5,P23,5.0
+P23,2-2,29,I do not let AI influence me in my everyday decisions.,2,P23,2.0
+P23,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,2,P23,2.0
+P23,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P23,6.0
+P23,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,5,P23,5.0
+P23,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,5,P23,5.0
+P23,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,5,P23,5.0
+P01,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P01,7.0
+P01,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P01,7.0
+P01,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P01,7.0
+P01,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P01,7.0
+P01,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P01,7.0
+P01,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,7-strongly agree,P01,7.0
+P01,2-2,7,I know the most important concepts of the topic artificial intelligence.,7-strongly agree,P01,7.0
+P01,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P01,7.0
+P01,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P01,7.0
+P01,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,6,P01,6.0
+P01,2-2,11,I can think of new uses for AI.,7-strongly agree,P01,7.0
+P01,2-2,12,I can imagine possible future uses of AI.,7-strongly agree,P01,7.0
+P01,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,7-strongly agree,P01,7.0
+P01,2-2,14,I can distinguish devices that use AI from devices that do not.,7-strongly agree,P01,7.0
+P01,2-2,15,I can distinguish if I interact with an AI or a real human.,6,P01,6.0
+P01,2-2,16,I can weigh the consequences of using AI for society.,5,P01,5.0
+P01,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,5,P01,5.0
+P01,2-2,18,I can analyze AI-based applications for their ethical implications.,5,P01,5.0
+P01,2-2,19,I can design new AI applications.,7-strongly agree,P01,7.0
+P01,2-2,20,I can program new applications in the field of artificial intelligence.,7-strongly agree,P01,7.0
+P01,2-2,21,I can develop new AI applications.,7-strongly agree,P01,7.0
+P01,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,6,P01,6.0
+P01,2-2,23,I can rely on my skills in difficult situations when using AI.,7-strongly agree,P01,7.0
+P01,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P01,6.0
+P01,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,7-strongly agree,P01,7.0
+P01,2-2,26,I can keep up with the latest innovations in AI applications.,7-strongly agree,P01,7.0
+P01,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,6,P01,6.0
+P01,2-2,28,Although there are often new AI applications I manage to always be up to date.,6,P01,6.0
+P01,2-2,29,I do not let AI influence me in my everyday decisions.,5,P01,5.0
+P01,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,5,P01,5.0
+P01,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P01,6.0
+P01,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,4,P01,4.0
+P01,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,6,P01,6.0
+P01,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P01,6.0
+P06,2-2,1,I can operate AI applications in everyday life.,6,P06,6.0
+P06,2-2,2,I can use AI applications to make my everyday life easier.,6,P06,6.0
+P06,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,5,P06,5.0
+P06,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,6,P06,6.0
+P06,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,5,P06,5.0
+P06,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P06,6.0
+P06,2-2,7,I know the most important concepts of the topic artificial intelligence.,3,P06,3.0
+P06,2-2,8,I know definitions of artificial intelligence.,5,P06,5.0
+P06,2-2,9,I can assess what the limitations and opportunities of using an AI are.,5,P06,5.0
+P06,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,5,P06,5.0
+P06,2-2,11,I can think of new uses for AI.,3,P06,3.0
+P06,2-2,12,I can imagine possible future uses of AI.,3,P06,3.0
+P06,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,3,P06,3.0
+P06,2-2,14,I can distinguish devices that use AI from devices that do not.,3,P06,3.0
+P06,2-2,15,I can distinguish if I interact with an AI or a real human.,5,P06,5.0
+P06,2-2,16,I can weigh the consequences of using AI for society.,5,P06,5.0
+P06,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,3,P06,3.0
+P06,2-2,18,I can analyze AI-based applications for their ethical implications.,4,P06,4.0
+P06,2-2,19,I can design new AI applications.,3,P06,3.0
+P06,2-2,20,I can program new applications in the field of artificial intelligence.,4,P06,4.0
+P06,2-2,21,I can develop new AI applications.,4,P06,4.0
+P06,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,5,P06,5.0
+P06,2-2,23,I can rely on my skills in difficult situations when using AI.,5,P06,5.0
+P06,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,5,P06,5.0
+P06,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,3,P06,3.0
+P06,2-2,26,I can keep up with the latest innovations in AI applications.,3,P06,3.0
+P06,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,3,P06,3.0
+P06,2-2,28,Although there are often new AI applications I manage to always be up to date.,3,P06,3.0
+P06,2-2,29,I do not let AI influence me in my everyday decisions.,5,P06,5.0
+P06,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,3,P06,3.0
+P06,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,5,P06,5.0
+P06,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,2,P06,2.0
+P06,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,2,P06,2.0
+P06,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P06,6.0
+P30,2-2,1,I can operate AI applications in everyday life.,6,P30,6.0
+P30,2-2,2,I can use AI applications to make my everyday life easier.,5,P30,5.0
+P30,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,5,P30,5.0
+P30,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,4,P30,4.0
+P30,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,5,P30,5.0
+P30,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,4,P30,4.0
+P30,2-2,7,I know the most important concepts of the topic artificial intelligence.,6,P30,6.0
+P30,2-2,8,I know definitions of artificial intelligence.,6,P30,6.0
+P30,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P30,7.0
+P30,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P30,7.0
+P30,2-2,11,I can think of new uses for AI.,3,P30,3.0
+P30,2-2,12,I can imagine possible future uses of AI.,3,P30,3.0
+P30,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P30,5.0
+P30,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P30,5.0
+P30,2-2,15,I can distinguish if I interact with an AI or a real human.,5,P30,5.0
+P30,2-2,16,I can weigh the consequences of using AI for society.,5,P30,5.0
+P30,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,5,P30,5.0
+P30,2-2,18,I can analyze AI-based applications for their ethical implications.,3,P30,3.0
+P30,2-2,19,I can design new AI applications.,4,P30,4.0
+P30,2-2,20,I can program new applications in the field of artificial intelligence.,5,P30,5.0
+P30,2-2,21,I can develop new AI applications.,5,P30,5.0
+P30,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,6,P30,6.0
+P30,2-2,23,I can rely on my skills in difficult situations when using AI.,5,P30,5.0
+P30,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P30,6.0
+P30,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,3,P30,3.0
+P30,2-2,26,I can keep up with the latest innovations in AI applications.,1-strongly disagree,P30,1.0
+P30,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,1-strongly disagree,P30,1.0
+P30,2-2,28,Although there are often new AI applications I manage to always be up to date.,1-strongly disagree,P30,1.0
+P30,2-2,29,I do not let AI influence me in my everyday decisions.,7-strongly agree,P30,7.0
+P30,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,7-strongly agree,P30,7.0
+P30,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,1-strongly disagree,P30,1.0
+P30,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,1-strongly disagree,P30,1.0
+P30,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P30,7.0
+P30,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,6,P30,6.0
+P09,2-2,1,I can operate AI applications in everyday life.,7-strongly agree,P09,7.0
+P09,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P09,7.0
+P09,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,7-strongly agree,P09,7.0
+P09,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P09,7.0
+P09,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,7-strongly agree,P09,7.0
+P09,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,7-strongly agree,P09,7.0
+P09,2-2,7,I know the most important concepts of the topic artificial intelligence.,7-strongly agree,P09,7.0
+P09,2-2,8,I know definitions of artificial intelligence.,7-strongly agree,P09,7.0
+P09,2-2,9,I can assess what the limitations and opportunities of using an AI are.,7-strongly agree,P09,7.0
+P09,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,7-strongly agree,P09,7.0
+P09,2-2,11,I can think of new uses for AI.,7-strongly agree,P09,7.0
+P09,2-2,12,I can imagine possible future uses of AI.,7-strongly agree,P09,7.0
+P09,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,7-strongly agree,P09,7.0
+P09,2-2,14,I can distinguish devices that use AI from devices that do not.,7-strongly agree,P09,7.0
+P09,2-2,15,I can distinguish if I interact with an AI or a real human.,7-strongly agree,P09,7.0
+P09,2-2,16,I can weigh the consequences of using AI for society.,7-strongly agree,P09,7.0
+P09,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,7-strongly agree,P09,7.0
+P09,2-2,18,I can analyze AI-based applications for their ethical implications.,7-strongly agree,P09,7.0
+P09,2-2,19,I can design new AI applications.,7-strongly agree,P09,7.0
+P09,2-2,20,I can program new applications in the field of artificial intelligence.,7-strongly agree,P09,7.0
+P09,2-2,21,I can develop new AI applications.,7-strongly agree,P09,7.0
+P09,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,7-strongly agree,P09,7.0
+P09,2-2,23,I can rely on my skills in difficult situations when using AI.,7-strongly agree,P09,7.0
+P09,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,7-strongly agree,P09,7.0
+P09,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,7-strongly agree,P09,7.0
+P09,2-2,26,I can keep up with the latest innovations in AI applications.,7-strongly agree,P09,7.0
+P09,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,7-strongly agree,P09,7.0
+P09,2-2,28,Although there are often new AI applications I manage to always be up to date.,7-strongly agree,P09,7.0
+P09,2-2,29,I do not let AI influence me in my everyday decisions.,2,P09,2.0
+P09,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,5,P09,5.0
+P09,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,7-strongly agree,P09,7.0
+P09,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,6,P09,6.0
+P09,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P09,7.0
+P09,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,5,P09,5.0
+P07,2-2,1,I can operate AI applications in everyday life.,5,P07,5.0
+P07,2-2,2,I can use AI applications to make my everyday life easier.,7-strongly agree,P07,7.0
+P07,2-2,3,I can use artificial intelligence meaningfully to achieve my everyday goals.,6,P07,6.0
+P07,2-2,4,In everyday life I can interact with AI in a way that makes my tasks easier.,7-strongly agree,P07,7.0
+P07,2-2,5,In everyday life I can work together gainfully with an artificial intelligence.,6,P07,6.0
+P07,2-2,6,I can communicate gainfully with artificial intelligence in everyday life.,6,P07,6.0
+P07,2-2,7,I know the most important concepts of the topic artificial intelligence.,4,P07,4.0
+P07,2-2,8,I know definitions of artificial intelligence.,6,P07,6.0
+P07,2-2,9,I can assess what the limitations and opportunities of using an AI are.,6,P07,6.0
+P07,2-2,10,I can assess what advantages and disadvantages the use of an artificial intelligence entails.,6,P07,6.0
+P07,2-2,11,I can think of new uses for AI.,6,P07,6.0
+P07,2-2,12,I can imagine possible future uses of AI.,6,P07,6.0
+P07,2-2,13,I can tell if I am dealing with an application based on artificial intelligence.,5,P07,5.0
+P07,2-2,14,I can distinguish devices that use AI from devices that do not.,5,P07,5.0
+P07,2-2,15,I can distinguish if I interact with an AI or a real human.,7-strongly agree,P07,7.0
+P07,2-2,16,I can weigh the consequences of using AI for society.,6,P07,6.0
+P07,2-2,17,I can incorporate ethical considerations when deciding whether to use data provided by an AI.,7-strongly agree,P07,7.0
+P07,2-2,18,I can analyze AI-based applications for their ethical implications.,6,P07,6.0
+P07,2-2,19,I can design new AI applications.,5,P07,5.0
+P07,2-2,20,I can program new applications in the field of artificial intelligence.,2,P07,2.0
+P07,2-2,21,I can develop new AI applications.,2,P07,2.0
+P07,2-2,22,I can select useful tools (e.g. frameworks / programming languages) to program an AI.,4,P07,4.0
+P07,2-2,23,I can rely on my skills in difficult situations when using AI.,6,P07,6.0
+P07,2-2,24,I can handle most problems in dealing with artificial intelligence well on my own.,6,P07,6.0
+P07,2-2,25,I can usually solve strenuous and complicated tasks when working with artificial intelligence well.,6,P07,6.0
+P07,2-2,26,I can keep up with the latest innovations in AI applications.,4,P07,4.0
+P07,2-2,27,Despite rapid changes in artificial intelligence I can always keep up to date.,4,P07,4.0
+P07,2-2,28,Although there are often new AI applications I manage to always be up to date.,3,P07,3.0
+P07,2-2,29,I do not let AI influence me in my everyday decisions.,4,P07,4.0
+P07,2-2,30,I can prevent an AI from influencing me in my everyday decisions.,7-strongly agree,P07,7.0
+P07,2-2,31,I realize if artificial intelligence is influencing me in my everyday decisions.,6,P07,6.0
+P07,2-2,32,I keep control over feelings like frustration and anxiety while doing everyday things with AI.,6,P07,6.0
+P07,2-2,33,I can handle it when everyday interactions with AI frustrate or frighten me.,7-strongly agree,P07,7.0
+P07,2-2,34,I can control my euphoria that arises when I use artificial intelligence for everyday purposes.,7-strongly agree,P07,7.0

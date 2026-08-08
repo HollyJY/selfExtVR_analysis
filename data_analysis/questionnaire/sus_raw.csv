@@ -1,0 +1,481 @@
+trial,index,question_text,answer_index,answer_text,pp,SUS
+12,1,1. In the computer generated world I had a sense of being there,2,,P19,2.0
+12,2,2. Somehow I felt that the virtual world surrounded me,1,,P19,1.0
+12,3,3. I felt like I was just perceiving pictures,2,,P19,2.0
+12,4,4. I did not feel present in the virtual space,5,,P19,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,2,,P19,2.0
+12,6,6. I felt present in the virtual space,2,,P19,2.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),6,,P19,6.0
+12,8,8. I was not aware of my real environment,2,,P19,2.0
+12,9,9. I still paid attention to the real environment,6,,P19,6.0
+12,10,10. I was completely captivated by the virtual world,2,,P19,2.0
+12,11,11. How real did the virtual world seem to you?,2,,P19,2.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,2,,P19,2.0
+12,13,13. How real did the virtual world seem to you?,2,,P19,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P19,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,1,,P19,1.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,3,,P19,3.0
+12,1,1. In the computer generated world I had a sense of being there,2,,P26,2.0
+12,2,2. Somehow I felt that the virtual world surrounded me,5,,P26,5.0
+12,3,3. I felt like I was just perceiving pictures,4,,P26,4.0
+12,4,4. I did not feel present in the virtual space,6,,P26,6.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,3,,P26,3.0
+12,6,6. I felt present in the virtual space,2,,P26,2.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),6,,P26,6.0
+12,8,8. I was not aware of my real environment,5,,P26,5.0
+12,9,9. I still paid attention to the real environment,2,,P26,2.0
+12,10,10. I was completely captivated by the virtual world,3,,P26,3.0
+12,11,11. How real did the virtual world seem to you?,6,,P26,6.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,2,,P26,2.0
+12,13,13. How real did the virtual world seem to you?,2,,P26,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P26,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,4,,P26,4.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P26,5.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P21,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,5,,P21,5.0
+12,3,3. I felt like I was just perceiving pictures,6,,P21,6.0
+12,4,4. I did not feel present in the virtual space,3,,P21,3.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P21,6.0
+12,6,6. I felt present in the virtual space,4,,P21,4.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),6,,P21,6.0
+12,8,8. I was not aware of my real environment,1,,P21,1.0
+12,9,9. I still paid attention to the real environment,6,,P21,6.0
+12,10,10. I was completely captivated by the virtual world,2,,P21,2.0
+12,11,11. How real did the virtual world seem to you?,3,,P21,3.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,4,,P21,4.0
+12,13,13. How real did the virtual world seem to you?,3,,P21,3.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P21,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,5,,P21,5.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,7,,P21,7.0
+12,1,1. In the computer generated world I had a sense of being there,2,,P28,2.0
+12,2,2. Somehow I felt that the virtual world surrounded me,3,,P28,3.0
+12,3,3. I felt like I was just perceiving pictures,5,,P28,5.0
+12,4,4. I did not feel present in the virtual space,3,,P28,3.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P28,6.0
+12,6,6. I felt present in the virtual space,3,,P28,3.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),2,,P28,2.0
+12,8,8. I was not aware of my real environment,2,,P28,2.0
+12,9,9. I still paid attention to the real environment,3,,P28,3.0
+12,10,10. I was completely captivated by the virtual world,2,,P28,2.0
+12,11,11. How real did the virtual world seem to you?,6,,P28,6.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,5,,P28,5.0
+12,13,13. How real did the virtual world seem to you?,1,,P28,1.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P28,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,2,,P28,2.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,4,,P28,4.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P17,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,4,,P17,4.0
+12,3,3. I felt like I was just perceiving pictures,1,,P17,1.0
+12,4,4. I did not feel present in the virtual space,2,,P17,2.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P17,5.0
+12,6,6. I felt present in the virtual space,5,,P17,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),4,,P17,4.0
+12,8,8. I was not aware of my real environment,3,,P17,3.0
+12,9,9. I still paid attention to the real environment,1,,P17,1.0
+12,10,10. I was completely captivated by the virtual world,6,,P17,6.0
+12,11,11. How real did the virtual world seem to you?,5,,P17,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P17,3.0
+12,13,13. How real did the virtual world seem to you?,2,,P17,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P17,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,4,,P17,4.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P17,5.0
+12,1,1. In the computer generated world I had a sense of being there,6,,P10,6.0
+12,2,2. Somehow I felt that the virtual world surrounded me,6,,P10,6.0
+12,3,3. I felt like I was just perceiving pictures,2,,P10,2.0
+12,4,4. I did not feel present in the virtual space,2,,P10,2.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P10,5.0
+12,6,6. I felt present in the virtual space,5,,P10,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),4,,P10,4.0
+12,8,8. I was not aware of my real environment,3,,P10,3.0
+12,9,9. I still paid attention to the real environment,3,,P10,3.0
+12,10,10. I was completely captivated by the virtual world,5,,P10,5.0
+12,11,11. How real did the virtual world seem to you?,3,,P10,3.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,2,,P10,2.0
+12,13,13. How real did the virtual world seem to you?,2,,P10,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P10,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,4,,P10,4.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P10,5.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P11,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,2,,P11,2.0
+12,3,3. I felt like I was just perceiving pictures,1,,P11,1.0
+12,4,4. I did not feel present in the virtual space,7,,P11,7.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,2,,P11,2.0
+12,6,6. I felt present in the virtual space,7,,P11,7.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),7,,P11,7.0
+12,8,8. I was not aware of my real environment,7,,P11,7.0
+12,9,9. I still paid attention to the real environment,2,,P11,2.0
+12,10,10. I was completely captivated by the virtual world,7,,P11,7.0
+12,11,11. How real did the virtual world seem to you?,2,,P11,2.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P11,3.0
+12,13,13. How real did the virtual world seem to you?,4,,P11,4.0
+12,14,14. The virtual world seemed more realistic than the real world,3,,P11,3.0
+12,15,15. The movements of the virtual body felt like they were my movements.,4,,P11,4.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,2,,P11,2.0
+12,1,1. In the computer generated world I had a sense of being there,4,,P11,4.0
+12,2,2. Somehow I felt that the virtual world surrounded me,4,,P11,4.0
+12,3,3. I felt like I was just perceiving pictures,4,,P11,4.0
+12,4,4. I did not feel present in the virtual space,3,,P11,3.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P11,5.0
+12,6,6. I felt present in the virtual space,5,,P11,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),4,,P11,4.0
+12,8,8. I was not aware of my real environment,4,,P11,4.0
+12,9,9. I still paid attention to the real environment,3,,P11,3.0
+12,10,10. I was completely captivated by the virtual world,4,,P11,4.0
+12,11,11. How real did the virtual world seem to you?,5,,P11,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,5,,P11,5.0
+12,13,13. How real did the virtual world seem to you?,5,,P11,5.0
+12,14,14. The virtual world seemed more realistic than the real world,4,,P11,4.0
+12,15,15. The movements of the virtual body felt like they were my movements.,4,,P11,4.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,4,,P11,4.0
+12,1,1. In the computer generated world I had a sense of being there,6,,P29,6.0
+12,2,2. Somehow I felt that the virtual world surrounded me,6,,P29,6.0
+12,3,3. I felt like I was just perceiving pictures,2,,P29,2.0
+12,4,4. I did not feel present in the virtual space,6,,P29,6.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P29,6.0
+12,6,6. I felt present in the virtual space,6,,P29,6.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),6,,P29,6.0
+12,8,8. I was not aware of my real environment,5,,P29,5.0
+12,9,9. I still paid attention to the real environment,2,,P29,2.0
+12,10,10. I was completely captivated by the virtual world,5,,P29,5.0
+12,11,11. How real did the virtual world seem to you?,5,,P29,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P29,3.0
+12,13,13. How real did the virtual world seem to you?,2,,P29,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P29,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,2,,P29,2.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P29,5.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P16,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,4,,P16,4.0
+12,3,3. I felt like I was just perceiving pictures,2,,P16,2.0
+12,4,4. I did not feel present in the virtual space,3,,P16,3.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,2,,P16,2.0
+12,6,6. I felt present in the virtual space,3,,P16,3.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),5,,P16,5.0
+12,8,8. I was not aware of my real environment,2,,P16,2.0
+12,9,9. I still paid attention to the real environment,5,,P16,5.0
+12,10,10. I was completely captivated by the virtual world,2,,P16,2.0
+12,11,11. How real did the virtual world seem to you?,4,,P16,4.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P16,3.0
+12,13,13. How real did the virtual world seem to you?,3,,P16,3.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P16,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,3,,P16,3.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P16,5.0
+12,1,1. In the computer generated world I had a sense of being there,2,,P18,2.0
+12,2,2. Somehow I felt that the virtual world surrounded me,2,,P18,2.0
+12,3,3. I felt like I was just perceiving pictures,3,,P18,3.0
+12,4,4. I did not feel present in the virtual space,6,,P18,6.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,3,,P18,3.0
+12,6,6. I felt present in the virtual space,5,,P18,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),6,,P18,6.0
+12,8,8. I was not aware of my real environment,2,,P18,2.0
+12,9,9. I still paid attention to the real environment,5,,P18,5.0
+12,10,10. I was completely captivated by the virtual world,5,,P18,5.0
+12,11,11. How real did the virtual world seem to you?,3,,P18,3.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P18,3.0
+12,13,13. How real did the virtual world seem to you?,3,,P18,3.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P18,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,5,,P18,5.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P18,5.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P27,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,2,,P27,2.0
+12,3,3. I felt like I was just perceiving pictures,1,,P27,1.0
+12,4,4. I did not feel present in the virtual space,7,,P27,7.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,2,,P27,2.0
+12,6,6. I felt present in the virtual space,7,,P27,7.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),7,,P27,7.0
+12,8,8. I was not aware of my real environment,7,,P27,7.0
+12,9,9. I still paid attention to the real environment,2,,P27,2.0
+12,10,10. I was completely captivated by the virtual world,7,,P27,7.0
+12,11,11. How real did the virtual world seem to you?,2,,P27,2.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P27,3.0
+12,13,13. How real did the virtual world seem to you?,4,,P27,4.0
+12,14,14. The virtual world seemed more realistic than the real world,3,,P27,3.0
+12,15,15. The movements of the virtual body felt like they were my movements.,4,,P27,4.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,2,,P27,2.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P05,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,4,,P05,4.0
+12,3,3. I felt like I was just perceiving pictures,5,,P05,5.0
+12,4,4. I did not feel present in the virtual space,7,,P05,7.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,7,,P05,7.0
+12,6,6. I felt present in the virtual space,7,,P05,7.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),3,,P05,3.0
+12,8,8. I was not aware of my real environment,3,,P05,3.0
+12,9,9. I still paid attention to the real environment,1,,P05,1.0
+12,10,10. I was completely captivated by the virtual world,7,,P05,7.0
+12,11,11. How real did the virtual world seem to you?,3,,P05,3.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,5,,P05,5.0
+12,13,13. How real did the virtual world seem to you?,4,,P05,4.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P05,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,4,,P05,4.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,7,,P05,7.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P02,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,5,,P02,5.0
+12,3,3. I felt like I was just perceiving pictures,3,,P02,3.0
+12,4,4. I did not feel present in the virtual space,5,,P02,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P02,6.0
+12,6,6. I felt present in the virtual space,5,,P02,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),3,,P02,3.0
+12,8,8. I was not aware of my real environment,2,,P02,2.0
+12,9,9. I still paid attention to the real environment,5,,P02,5.0
+12,10,10. I was completely captivated by the virtual world,3,,P02,3.0
+12,11,11. How real did the virtual world seem to you?,5,,P02,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P02,3.0
+12,13,13. How real did the virtual world seem to you?,5,,P02,5.0
+12,14,14. The virtual world seemed more realistic than the real world,3,,P02,3.0
+12,15,15. The movements of the virtual body felt like they were my movements.,6,,P02,6.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,7,,P02,7.0
+12,1,1. In the computer generated world I had a sense of being there,4,,P03,4.0
+12,2,2. Somehow I felt that the virtual world surrounded me,5,,P03,5.0
+12,3,3. I felt like I was just perceiving pictures,2,,P03,2.0
+12,4,4. I did not feel present in the virtual space,5,,P03,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P03,6.0
+12,6,6. I felt present in the virtual space,5,,P03,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),3,,P03,3.0
+12,8,8. I was not aware of my real environment,4,,P03,4.0
+12,9,9. I still paid attention to the real environment,4,,P03,4.0
+12,10,10. I was completely captivated by the virtual world,4,,P03,4.0
+12,11,11. How real did the virtual world seem to you?,3,,P03,3.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,1,,P03,1.0
+12,13,13. How real did the virtual world seem to you?,3,,P03,3.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P03,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,2,,P03,2.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P03,5.0
+12,1,1. In the computer generated world I had a sense of being there,1,,P03,1.0
+12,2,2. Somehow I felt that the virtual world surrounded me,1,,P03,1.0
+12,3,3. I felt like I was just perceiving pictures,6,,P03,6.0
+12,4,4. I did not feel present in the virtual space,2,,P03,2.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,1,,P03,1.0
+12,6,6. I felt present in the virtual space,2,,P03,2.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),2,,P03,2.0
+12,8,8. I was not aware of my real environment,1,,P03,1.0
+12,9,9. I still paid attention to the real environment,7,,P03,7.0
+12,10,10. I was completely captivated by the virtual world,1,,P03,1.0
+12,11,11. How real did the virtual world seem to you?,7,,P03,7.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,1,,P03,1.0
+12,13,13. How real did the virtual world seem to you?,1,,P03,1.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P03,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,3,,P03,3.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P03,5.0
+12,1,1. In the computer generated world I had a sense of being there,1,,P04,1.0
+12,2,2. Somehow I felt that the virtual world surrounded me,2,,P04,2.0
+12,3,3. I felt like I was just perceiving pictures,6,,P04,6.0
+12,4,4. I did not feel present in the virtual space,1,,P04,1.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,1,,P04,1.0
+12,6,6. I felt present in the virtual space,1,,P04,1.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),1,,P04,1.0
+12,8,8. I was not aware of my real environment,1,,P04,1.0
+12,9,9. I still paid attention to the real environment,5,,P04,5.0
+12,10,10. I was completely captivated by the virtual world,2,,P04,2.0
+12,11,11. How real did the virtual world seem to you?,6,,P04,6.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,2,,P04,2.0
+12,13,13. How real did the virtual world seem to you?,1,,P04,1.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P04,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,1,,P04,1.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,4,,P04,4.0
+12,1,1. In the computer generated world I had a sense of being there,4,,P22,4.0
+12,2,2. Somehow I felt that the virtual world surrounded me,3,,P22,3.0
+12,3,3. I felt like I was just perceiving pictures,3,,P22,3.0
+12,4,4. I did not feel present in the virtual space,5,,P22,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,3,,P22,3.0
+12,6,6. I felt present in the virtual space,5,,P22,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),4,,P22,4.0
+12,8,8. I was not aware of my real environment,3,,P22,3.0
+12,9,9. I still paid attention to the real environment,5,,P22,5.0
+12,10,10. I was completely captivated by the virtual world,3,,P22,3.0
+12,11,11. How real did the virtual world seem to you?,5,,P22,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,5,,P22,5.0
+12,13,13. How real did the virtual world seem to you?,4,,P22,4.0
+12,14,14. The virtual world seemed more realistic than the real world,2,,P22,2.0
+12,15,15. The movements of the virtual body felt like they were my movements.,5,,P22,5.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P22,5.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P25,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,3,,P25,3.0
+12,3,3. I felt like I was just perceiving pictures,3,,P25,3.0
+12,4,4. I did not feel present in the virtual space,5,,P25,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P25,5.0
+12,6,6. I felt present in the virtual space,5,,P25,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),5,,P25,5.0
+12,8,8. I was not aware of my real environment,4,,P25,4.0
+12,9,9. I still paid attention to the real environment,3,,P25,3.0
+12,10,10. I was completely captivated by the virtual world,4,,P25,4.0
+12,11,11. How real did the virtual world seem to you?,5,,P25,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,4,,P25,4.0
+12,13,13. How real did the virtual world seem to you?,3,,P25,3.0
+12,14,14. The virtual world seemed more realistic than the real world,2,,P25,2.0
+12,15,15. The movements of the virtual body felt like they were my movements.,5,,P25,5.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,6,,P25,6.0
+12,1,1. In the computer generated world I had a sense of being there,2,,P13,2.0
+12,2,2. Somehow I felt that the virtual world surrounded me,1,,P13,1.0
+12,3,3. I felt like I was just perceiving pictures,6,,P13,6.0
+12,4,4. I did not feel present in the virtual space,3,,P13,3.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,4,,P13,4.0
+12,6,6. I felt present in the virtual space,4,,P13,4.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),1,,P13,1.0
+12,8,8. I was not aware of my real environment,1,,P13,1.0
+12,9,9. I still paid attention to the real environment,6,,P13,6.0
+12,10,10. I was completely captivated by the virtual world,3,,P13,3.0
+12,11,11. How real did the virtual world seem to you?,7,,P13,7.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,1,,P13,1.0
+12,13,13. How real did the virtual world seem to you?,1,,P13,1.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P13,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,1,,P13,1.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,1,,P13,1.0
+12,1,1. In the computer generated world I had a sense of being there,3,,P14,3.0
+12,2,2. Somehow I felt that the virtual world surrounded me,2,,P14,2.0
+12,3,3. I felt like I was just perceiving pictures,2,,P14,2.0
+12,4,4. I did not feel present in the virtual space,5,,P14,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P14,6.0
+12,6,6. I felt present in the virtual space,5,,P14,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),3,,P14,3.0
+12,8,8. I was not aware of my real environment,5,,P14,5.0
+12,9,9. I still paid attention to the real environment,4,,P14,4.0
+12,10,10. I was completely captivated by the virtual world,2,,P14,2.0
+12,11,11. How real did the virtual world seem to you?,6,,P14,6.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,2,,P14,2.0
+12,13,13. How real did the virtual world seem to you?,2,,P14,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P14,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,1,,P14,1.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,7,,P14,7.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P15,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,7,,P15,7.0
+12,3,3. I felt like I was just perceiving pictures,3,,P15,3.0
+12,4,4. I did not feel present in the virtual space,5,,P15,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P15,5.0
+12,6,6. I felt present in the virtual space,3,,P15,3.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),2,,P15,2.0
+12,8,8. I was not aware of my real environment,3,,P15,3.0
+12,9,9. I still paid attention to the real environment,6,,P15,6.0
+12,10,10. I was completely captivated by the virtual world,1,,P15,1.0
+12,11,11. How real did the virtual world seem to you?,5,,P15,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,4,,P15,4.0
+12,13,13. How real did the virtual world seem to you?,3,,P15,3.0
+12,14,14. The virtual world seemed more realistic than the real world,6,,P15,6.0
+12,15,15. The movements of the virtual body felt like they were my movements.,5,,P15,5.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P15,5.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P12,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,3,,P12,3.0
+12,3,3. I felt like I was just perceiving pictures,1,,P12,1.0
+12,4,4. I did not feel present in the virtual space,1,,P12,1.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P12,6.0
+12,6,6. I felt present in the virtual space,6,,P12,6.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),3,,P12,3.0
+12,8,8. I was not aware of my real environment,3,,P12,3.0
+12,9,9. I still paid attention to the real environment,3,,P12,3.0
+12,10,10. I was completely captivated by the virtual world,2,,P12,2.0
+12,11,11. How real did the virtual world seem to you?,5,,P12,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P12,3.0
+12,13,13. How real did the virtual world seem to you?,5,,P12,5.0
+12,14,14. The virtual world seemed more realistic than the real world,2,,P12,2.0
+12,15,15. The movements of the virtual body felt like they were my movements.,6,,P12,6.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,6,,P12,6.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P24,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,6,,P24,6.0
+12,3,3. I felt like I was just perceiving pictures,4,,P24,4.0
+12,4,4. I did not feel present in the virtual space,2,,P24,2.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P24,5.0
+12,6,6. I felt present in the virtual space,5,,P24,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),5,,P24,5.0
+12,8,8. I was not aware of my real environment,5,,P24,5.0
+12,9,9. I still paid attention to the real environment,2,,P24,2.0
+12,10,10. I was completely captivated by the virtual world,5,,P24,5.0
+12,11,11. How real did the virtual world seem to you?,5,,P24,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,4,,P24,4.0
+12,13,13. How real did the virtual world seem to you?,3,,P24,3.0
+12,14,14. The virtual world seemed more realistic than the real world,2,,P24,2.0
+12,15,15. The movements of the virtual body felt like they were my movements.,5,,P24,5.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P24,5.0
+12,1,1. In the computer generated world I had a sense of being there,4,,P23,4.0
+12,2,2. Somehow I felt that the virtual world surrounded me,3,,P23,3.0
+12,3,3. I felt like I was just perceiving pictures,5,,P23,5.0
+12,4,4. I did not feel present in the virtual space,5,,P23,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P23,6.0
+12,6,6. I felt present in the virtual space,3,,P23,3.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),2,,P23,2.0
+12,8,8. I was not aware of my real environment,5,,P23,5.0
+12,9,9. I still paid attention to the real environment,2,,P23,2.0
+12,10,10. I was completely captivated by the virtual world,5,,P23,5.0
+12,11,11. How real did the virtual world seem to you?,2,,P23,2.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P23,3.0
+12,13,13. How real did the virtual world seem to you?,5,,P23,5.0
+12,14,14. The virtual world seemed more realistic than the real world,2,,P23,2.0
+12,15,15. The movements of the virtual body felt like they were my movements.,6,,P23,6.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,6,,P23,6.0
+12,1,1. In the computer generated world I had a sense of being there,6,,P01,6.0
+12,2,2. Somehow I felt that the virtual world surrounded me,5,,P01,5.0
+12,3,3. I felt like I was just perceiving pictures,3,,P01,3.0
+12,4,4. I did not feel present in the virtual space,5,,P01,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,1,,P01,1.0
+12,6,6. I felt present in the virtual space,5,,P01,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),1,,P01,1.0
+12,8,8. I was not aware of my real environment,1,,P01,1.0
+12,9,9. I still paid attention to the real environment,6,,P01,6.0
+12,10,10. I was completely captivated by the virtual world,2,,P01,2.0
+12,11,11. How real did the virtual world seem to you?,5,,P01,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,5,,P01,5.0
+12,13,13. How real did the virtual world seem to you?,2,,P01,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P01,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,6,,P01,6.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,7,,P01,7.0
+12,1,1. In the computer generated world I had a sense of being there,7,,P06,7.0
+12,2,2. Somehow I felt that the virtual world surrounded me,6,,P06,6.0
+12,3,3. I felt like I was just perceiving pictures,7,,P06,7.0
+12,4,4. I did not feel present in the virtual space,1,,P06,1.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P06,5.0
+12,6,6. I felt present in the virtual space,7,,P06,7.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),6,,P06,6.0
+12,8,8. I was not aware of my real environment,6,,P06,6.0
+12,9,9. I still paid attention to the real environment,2,,P06,2.0
+12,10,10. I was completely captivated by the virtual world,6,,P06,6.0
+12,11,11. How real did the virtual world seem to you?,4,,P06,4.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,6,,P06,6.0
+12,13,13. How real did the virtual world seem to you?,2,,P06,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P06,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,5,,P06,5.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,6,,P06,6.0
+12,1,1. In the computer generated world I had a sense of being there,2,,P30,2.0
+12,2,2. Somehow I felt that the virtual world surrounded me,3,,P30,3.0
+12,3,3. I felt like I was just perceiving pictures,3,,P30,3.0
+12,4,4. I did not feel present in the virtual space,5,,P30,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,5,,P30,5.0
+12,6,6. I felt present in the virtual space,5,,P30,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),1,,P30,1.0
+12,8,8. I was not aware of my real environment,1,,P30,1.0
+12,9,9. I still paid attention to the real environment,7,,P30,7.0
+12,10,10. I was completely captivated by the virtual world,1,,P30,1.0
+12,11,11. How real did the virtual world seem to you?,5,,P30,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,5,,P30,5.0
+12,13,13. How real did the virtual world seem to you?,2,,P30,2.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P30,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,2,,P30,2.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,4,,P30,4.0
+12,1,1. In the computer generated world I had a sense of being there,4,,P09,4.0
+12,2,2. Somehow I felt that the virtual world surrounded me,3,,P09,3.0
+12,3,3. I felt like I was just perceiving pictures,3,,P09,3.0
+12,4,4. I did not feel present in the virtual space,5,,P09,5.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,3,,P09,3.0
+12,6,6. I felt present in the virtual space,3,,P09,3.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),2,,P09,2.0
+12,8,8. I was not aware of my real environment,2,,P09,2.0
+12,9,9. I still paid attention to the real environment,6,,P09,6.0
+12,10,10. I was completely captivated by the virtual world,5,,P09,5.0
+12,11,11. How real did the virtual world seem to you?,6,,P09,6.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,4,,P09,4.0
+12,13,13. How real did the virtual world seem to you?,2,,P09,2.0
+12,14,14. The virtual world seemed more realistic than the real world,2,,P09,2.0
+12,15,15. The movements of the virtual body felt like they were my movements.,6,,P09,6.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,5,,P09,5.0
+12,1,1. In the computer generated world I had a sense of being there,5,,P07,5.0
+12,2,2. Somehow I felt that the virtual world surrounded me,5,,P07,5.0
+12,3,3. I felt like I was just perceiving pictures,4,,P07,4.0
+12,4,4. I did not feel present in the virtual space,2,,P07,2.0
+12,5,5. I had a sense of acting in the virtual space rather than operating something from outside,6,,P07,6.0
+12,6,6. I felt present in the virtual space,5,,P07,5.0
+12,7,7. How aware were you of the real world surrounding while navigating in the virtual world? (i.e. sounds / room temperature / other people / etc.),2,,P07,2.0
+12,8,8. I was not aware of my real environment,2,,P07,2.0
+12,9,9. I still paid attention to the real environment,5,,P07,5.0
+12,10,10. I was completely captivated by the virtual world,2,,P07,2.0
+12,11,11. How real did the virtual world seem to you?,5,,P07,5.0
+12,12,12. How much did your experience in the virtual environment seem consistent with your real world experience?,3,,P07,3.0
+12,13,13. How real did the virtual world seem to you?,4,,P07,4.0
+12,14,14. The virtual world seemed more realistic than the real world,1,,P07,1.0
+12,15,15. The movements of the virtual body felt like they were my movements.,3,,P07,3.0
+12,16,16. I felt like I was controlling the movements of the virtual body.,7,,P07,7.0

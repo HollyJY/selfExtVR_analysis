@@ -1,0 +1,589 @@
+participant_id,section,index,question,answer,pp,IPQ
+P19,pre,1,What is your age? (in years),28,P19,28.0
+P19,pre,2,What is your gender?,Non-binary,P19,
+P19,pre,3,What is your highest level of education completed?,Master's degree,P19,
+P19,pre,4,How much experience do you have using VR?,6-20 times,P19,6.0
+P19,pre,5,How often have you used VR in the past 6 months?,Less than once a month,P19,
+P19,post,1,General discomfort,1-None,P19,1.0
+P19,post,2,Fatigue,1-None,P19,1.0
+P19,post,3,Headache,1-None,P19,1.0
+P19,post,4,Eye strain,1-None,P19,1.0
+P19,post,5,Difficulty focusing,1-None,P19,1.0
+P19,post,6,Salivation increasing,1-None,P19,1.0
+P19,post,7,Sweating,1-None,P19,1.0
+P19,post,8,Nausea,1-None,P19,1.0
+P19,post,9,Difficulty concentrating,1-None,P19,1.0
+P19,post,10,Fullness of the Head,1-None,P19,1.0
+P19,post,11,Blurred vision,1-None,P19,1.0
+P19,post,12,Dizziness with eyes open,1-None,P19,1.0
+P19,post,13,Dizziness with eyes closed,1-None,P19,1.0
+P19,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P19,1.0
+P19,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P19,1.0
+P19,post,16,Burping,1-None,P19,1.0
+P26,pre,1,What is your age? (in years),26,P26,26.0
+P26,pre,2,What is your gender?,Male,P26,
+P26,pre,3,What is your highest level of education completed?,Master's degree,P26,
+P26,pre,4,How much experience do you have using VR?,1-5 times,P26,1.0
+P26,pre,5,How often have you used VR in the past 6 months?,Never,P26,
+P26,post,1,General discomfort,2-Slight,P26,2.0
+P26,post,2,Fatigue,3-Moderate,P26,3.0
+P26,post,3,Headache,2-Slight,P26,2.0
+P26,post,4,Eye strain,3-Moderate,P26,3.0
+P26,post,5,Difficulty focusing,2-Slight,P26,2.0
+P26,post,6,Salivation increasing,1-None,P26,1.0
+P26,post,7,Sweating,1-None,P26,1.0
+P26,post,8,Nausea,2-Slight,P26,2.0
+P26,post,9,Difficulty concentrating,2-Slight,P26,2.0
+P26,post,10,Fullness of the Head,3-Moderate,P26,3.0
+P26,post,11,Blurred vision,1-None,P26,1.0
+P26,post,12,Dizziness with eyes open,2-Slight,P26,2.0
+P26,post,13,Dizziness with eyes closed,3-Moderate,P26,3.0
+P26,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),2-Slight,P26,2.0
+P26,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P26,1.0
+P26,post,16,Burping,1-None,P26,1.0
+P21,pre,1,What is your age? (in years),25,P21,25.0
+P21,pre,2,What is your gender?,Male,P21,
+P21,pre,3,What is your highest level of education completed?,Master's degree,P21,
+P21,pre,4,How much experience do you have using VR?,1-5 times,P21,1.0
+P21,pre,5,How often have you used VR in the past 6 months?,Never,P21,
+P21,post,1,General discomfort,1-None,P21,1.0
+P21,post,2,Fatigue,2-Slight,P21,2.0
+P21,post,3,Headache,1-None,P21,1.0
+P21,post,4,Eye strain,1-None,P21,1.0
+P21,post,5,Difficulty focusing,2-Slight,P21,2.0
+P21,post,6,Salivation increasing,1-None,P21,1.0
+P21,post,7,Sweating,2-Slight,P21,2.0
+P21,post,8,Nausea,1-None,P21,1.0
+P21,post,9,Difficulty concentrating,2-Slight,P21,2.0
+P21,post,10,Fullness of the Head,1-None,P21,1.0
+P21,post,11,Blurred vision,1-None,P21,1.0
+P21,post,12,Dizziness with eyes open,2-Slight,P21,2.0
+P21,post,13,Dizziness with eyes closed,1-None,P21,1.0
+P21,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P21,1.0
+P21,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P21,1.0
+P21,post,16,Burping,1-None,P21,1.0
+P28,pre,1,What is your age? (in years),29,P28,29.0
+P28,pre,2,What is your gender?,Male,P28,
+P28,pre,3,What is your highest level of education completed?,Master's degree,P28,
+P28,pre,4,How much experience do you have using VR?,1-5 times,P28,1.0
+P28,pre,5,How often have you used VR in the past 6 months?,Less than once a month,P28,
+P28,post,1,General discomfort,1-None,P28,1.0
+P28,post,2,Fatigue,1-None,P28,1.0
+P28,post,3,Headache,1-None,P28,1.0
+P28,post,4,Eye strain,1-None,P28,1.0
+P28,post,5,Difficulty focusing,1-None,P28,1.0
+P28,post,6,Salivation increasing,1-None,P28,1.0
+P28,post,7,Sweating,1-None,P28,1.0
+P28,post,8,Nausea,1-None,P28,1.0
+P28,post,9,Difficulty concentrating,1-None,P28,1.0
+P28,post,10,Fullness of the Head,1-None,P28,1.0
+P28,post,11,Blurred vision,1-None,P28,1.0
+P28,post,12,Dizziness with eyes open,1-None,P28,1.0
+P28,post,13,Dizziness with eyes closed,1-None,P28,1.0
+P28,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P28,1.0
+P28,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P28,1.0
+P28,post,16,Burping,1-None,P28,1.0
+P17,pre,1,What is your age? (in years),25,P17,25.0
+P17,pre,2,What is your gender?,Male,P17,
+P17,pre,3,What is your highest level of education completed?,Bachelor's degree,P17,
+P17,pre,4,How much experience do you have using VR?,21+ times,P17,21.0
+P17,pre,5,How often have you used VR in the past 6 months?,1-2 times a week,P17,1.0
+P17,post,1,General discomfort,3-Moderate,P17,3.0
+P17,post,2,Fatigue,2-Slight,P17,2.0
+P17,post,3,Headache,3-Moderate,P17,3.0
+P17,post,4,Eye strain,3-Moderate,P17,3.0
+P17,post,5,Difficulty focusing,1-None,P17,1.0
+P17,post,6,Salivation increasing,1-None,P17,1.0
+P17,post,7,Sweating,1-None,P17,1.0
+P17,post,8,Nausea,1-None,P17,1.0
+P17,post,9,Difficulty concentrating,2-Slight,P17,2.0
+P17,post,10,Fullness of the Head,1-None,P17,1.0
+P17,post,11,Blurred vision,2-Slight,P17,2.0
+P17,post,12,Dizziness with eyes open,2-Slight,P17,2.0
+P17,post,13,Dizziness with eyes closed,1-None,P17,1.0
+P17,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P17,1.0
+P17,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P17,1.0
+P17,post,16,Burping,1-None,P17,1.0
+P10,pre,1,What is your age? (in years),34,P10,34.0
+P10,pre,2,What is your gender?,Male,P10,
+P10,pre,3,What is your highest level of education completed?,Doctoral degree,P10,
+P10,pre,4,How much experience do you have using VR?,1-5 times,P10,1.0
+P10,pre,5,How often have you used VR in the past 6 months?,Never,P10,
+P10,post,1,General discomfort,2-Slight,P10,2.0
+P10,post,2,Fatigue,3-Moderate,P10,3.0
+P10,post,3,Headache,2-Slight,P10,2.0
+P10,post,4,Eye strain,2-Slight,P10,2.0
+P10,post,5,Difficulty focusing,2-Slight,P10,2.0
+P10,post,6,Salivation increasing,2-Slight,P10,2.0
+P10,post,7,Sweating,1-None,P10,1.0
+P10,post,8,Nausea,1-None,P10,1.0
+P10,post,9,Difficulty concentrating,3-Moderate,P10,3.0
+P10,post,10,Fullness of the Head,3-Moderate,P10,3.0
+P10,post,11,Blurred vision,2-Slight,P10,2.0
+P10,post,12,Dizziness with eyes open,2-Slight,P10,2.0
+P10,post,13,Dizziness with eyes closed,2-Slight,P10,2.0
+P10,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P10,1.0
+P10,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),2-Slight,P10,2.0
+P10,post,16,Burping,1-None,P10,1.0
+P08,pre,1,What is your age? (in years),40,P11,40.0
+P08,pre,2,What is your gender?,Female,P11,
+P08,pre,3,What is your highest level of education completed?,Bachelor's degree,P11,
+P08,pre,4,How much experience do you have using VR?,1-5 times,P11,1.0
+P08,pre,5,How often have you used VR in the past 6 months?,Less than once a month,P11,
+P11,post,1,General discomfort,1-None,P11,1.0
+P11,post,2,Fatigue,1-None,P11,1.0
+P11,post,3,Headache,1-None,P11,1.0
+P11,post,4,Eye strain,2-Slight,P11,2.0
+P11,post,5,Difficulty focusing,2-Slight,P11,2.0
+P11,post,6,Salivation increasing,1-None,P11,1.0
+P11,post,7,Sweating,1-None,P11,1.0
+P11,post,8,Nausea,1-None,P11,1.0
+P11,post,9,Difficulty concentrating,1-None,P11,1.0
+P11,post,10,Fullness of the Head,1-None,P11,1.0
+P11,post,11,Blurred vision,2-Slight,P11,2.0
+P11,post,12,Dizziness with eyes open,1-None,P11,1.0
+P11,post,13,Dizziness with eyes closed,1-None,P11,1.0
+P11,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P11,1.0
+P11,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P11,1.0
+P11,post,16,Burping,1-None,P11,1.0
+P29,pre,1,What is your age? (in years),31,P29,31.0
+P29,pre,2,What is your gender?,Female,P29,
+P29,pre,3,What is your highest level of education completed?,Doctoral degree,P29,
+P29,pre,4,How much experience do you have using VR?,1-5 times,P29,1.0
+P29,pre,5,How often have you used VR in the past 6 months?,Never,P29,
+29,post,1,General discomfort,1-None,P29,1.0
+29,post,2,Fatigue,2-Slight,P29,2.0
+29,post,3,Headache,1-None,P29,1.0
+29,post,4,Eye strain,2-Slight,P29,2.0
+29,post,5,Difficulty focusing,2-Slight,P29,2.0
+29,post,6,Salivation increasing,1-None,P29,1.0
+29,post,7,Sweating,1-None,P29,1.0
+29,post,8,Nausea,1-None,P29,1.0
+29,post,9,Difficulty concentrating,2-Slight,P29,2.0
+29,post,10,Fullness of the Head,1-None,P29,1.0
+29,post,11,Blurred vision,1-None,P29,1.0
+29,post,12,Dizziness with eyes open,1-None,P29,1.0
+29,post,13,Dizziness with eyes closed,2-Slight,P29,2.0
+29,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P29,1.0
+29,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),2-Slight,P29,2.0
+29,post,16,Burping,1-None,P29,1.0
+P16,pre,1,What is your age? (in years),30,P16,30.0
+P16,pre,2,What is your gender?,Female,P16,
+P16,pre,3,What is your highest level of education completed?,Doctoral degree,P16,
+P16,pre,4,How much experience do you have using VR?,1-5 times,P16,1.0
+P16,pre,5,How often have you used VR in the past 6 months?,Never,P16,
+P16,post,1,General discomfort,2-Slight,P16,2.0
+P16,post,2,Fatigue,2-Slight,P16,2.0
+P16,post,3,Headache,2-Slight,P16,2.0
+P16,post,4,Eye strain,1-None,P16,1.0
+P16,post,5,Difficulty focusing,1-None,P16,1.0
+P16,post,6,Salivation increasing,1-None,P16,1.0
+P16,post,7,Sweating,1-None,P16,1.0
+P16,post,8,Nausea,1-None,P16,1.0
+P16,post,9,Difficulty concentrating,1-None,P16,1.0
+P16,post,10,Fullness of the Head,1-None,P16,1.0
+P16,post,11,Blurred vision,1-None,P16,1.0
+P16,post,12,Dizziness with eyes open,1-None,P16,1.0
+P16,post,13,Dizziness with eyes closed,1-None,P16,1.0
+P16,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P16,1.0
+P16,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P16,1.0
+P16,post,16,Burping,1-None,P16,1.0
+P18,pre,1,What is your age? (in years),24,P18,24.0
+P18,pre,2,What is your gender?,Male,P18,
+P18,pre,3,What is your highest level of education completed?,Master's degree,P18,
+P18,pre,4,How much experience do you have using VR?,1-5 times,P18,1.0
+P18,pre,5,How often have you used VR in the past 6 months?,1-3 times a month,P18,1.0
+P18,post,1,General discomfort,2-Slight,P18,2.0
+P18,post,2,Fatigue,2-Slight,P18,2.0
+P18,post,3,Headache,1-None,P18,1.0
+P18,post,4,Eye strain,1-None,P18,1.0
+P18,post,5,Difficulty focusing,2-Slight,P18,2.0
+P18,post,6,Salivation increasing,1-None,P18,1.0
+P18,post,7,Sweating,3-Moderate,P18,3.0
+P18,post,8,Nausea,1-None,P18,1.0
+P18,post,9,Difficulty concentrating,2-Slight,P18,2.0
+P18,post,10,Fullness of the Head,1-None,P18,1.0
+P18,post,11,Blurred vision,1-None,P18,1.0
+P18,post,12,Dizziness with eyes open,1-None,P18,1.0
+P18,post,13,Dizziness with eyes closed,1-None,P18,1.0
+P18,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P18,1.0
+P18,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P18,1.0
+P18,post,16,Burping,1-None,P18,1.0
+P11,pre,1,What is your age? (in years),32,P27,32.0
+P11,pre,2,What is your gender?,Female,P27,
+P11,pre,3,What is your highest level of education completed?,Doctoral degree,P27,
+P11,pre,4,How much experience do you have using VR?,21+ times,P27,21.0
+P11,pre,5,How often have you used VR in the past 6 months?,1-2 times a week,P27,1.0
+P11,post,1,General discomfort,3-Moderate,P27,3.0
+P11,post,2,Fatigue,3-Moderate,P27,3.0
+P11,post,3,Headache,3-Moderate,P27,3.0
+P11,post,4,Eye strain,3-Moderate,P27,3.0
+P11,post,5,Difficulty focusing,1-None,P27,1.0
+P11,post,6,Salivation increasing,1-None,P27,1.0
+P11,post,7,Sweating,1-None,P27,1.0
+P11,post,8,Nausea,1-None,P27,1.0
+P11,post,9,Difficulty concentrating,1-None,P27,1.0
+P11,post,10,Fullness of the Head,2-Slight,P27,2.0
+P11,post,11,Blurred vision,2-Slight,P27,2.0
+P11,post,12,Dizziness with eyes open,1-None,P27,1.0
+P11,post,13,Dizziness with eyes closed,1-None,P27,1.0
+P11,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P27,1.0
+P11,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P27,1.0
+P11,post,16,Burping,1-None,P27,1.0
+P05,pre,1,What is your age? (in years),29,P05,29.0
+P05,pre,2,What is your gender?,Male,P05,
+P05,pre,3,What is your highest level of education completed?,Master's degree,P05,
+P05,pre,4,How much experience do you have using VR?,21+ times,P05,21.0
+P05,pre,5,How often have you used VR in the past 6 months?,1-3 times a month,P05,1.0
+P05,post,1,General discomfort,2-Slight,P05,2.0
+P05,post,2,Fatigue,2-Slight,P05,2.0
+P05,post,3,Headache,3-Moderate,P05,3.0
+P05,post,4,Eye strain,2-Slight,P05,2.0
+P05,post,5,Difficulty focusing,1-None,P05,1.0
+P05,post,6,Salivation increasing,1-None,P05,1.0
+P05,post,7,Sweating,2-Slight,P05,2.0
+P05,post,8,Nausea,1-None,P05,1.0
+P05,post,9,Difficulty concentrating,1-None,P05,1.0
+P05,post,10,Fullness of the Head,1-None,P05,1.0
+P05,post,11,Blurred vision,1-None,P05,1.0
+P05,post,12,Dizziness with eyes open,1-None,P05,1.0
+P05,post,13,Dizziness with eyes closed,1-None,P05,1.0
+P05,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P05,1.0
+P05,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P05,1.0
+P05,post,16,Burping,1-None,P05,1.0
+P02,pre,1,What is your age? (in years),41,P02,41.0
+P02,pre,2,What is your gender?,Male,P02,
+P02,pre,3,What is your highest level of education completed?,Bachelor's degree,P02,
+P02,pre,4,How much experience do you have using VR?,1-5 times,P02,1.0
+P02,pre,5,How often have you used VR in the past 6 months?,Never,P02,
+P02,post,1,General discomfort,2-Slight,P02,2.0
+P02,post,2,Fatigue,2-Slight,P02,2.0
+P02,post,3,Headache,2-Slight,P02,2.0
+P02,post,4,Eye strain,3-Moderate,P02,3.0
+P02,post,5,Difficulty focusing,1-None,P02,1.0
+P02,post,6,Salivation increasing,2-Slight,P02,2.0
+P02,post,7,Sweating,2-Slight,P02,2.0
+P02,post,8,Nausea,1-None,P02,1.0
+P02,post,9,Difficulty concentrating,2-Slight,P02,2.0
+P02,post,10,Fullness of the Head,2-Slight,P02,2.0
+P02,post,11,Blurred vision,1-None,P02,1.0
+P02,post,12,Dizziness with eyes open,2-Slight,P02,2.0
+P02,post,13,Dizziness with eyes closed,1-None,P02,1.0
+P02,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P02,1.0
+P02,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P02,1.0
+P02,post,16,Burping,1-None,P02,1.0
+P03,pre,1,What is your age? (in years),28,P03,28.0
+P03,pre,2,What is your gender?,Female,P03,
+P03,pre,3,What is your highest level of education completed?,Master's degree,P03,
+P03,pre,4,How much experience do you have using VR?,1-5 times,P03,1.0
+P03,pre,5,How often have you used VR in the past 6 months?,Never,P03,
+P03,post,1,General discomfort,1-None,P03,1.0
+P03,post,2,Fatigue,3-Moderate,P03,3.0
+P03,post,3,Headache,1-None,P03,1.0
+P03,post,4,Eye strain,1-None,P03,1.0
+P03,post,5,Difficulty focusing,2-Slight,P03,2.0
+P03,post,6,Salivation increasing,1-None,P03,1.0
+P03,post,7,Sweating,1-None,P03,1.0
+P03,post,8,Nausea,1-None,P03,1.0
+P03,post,9,Difficulty concentrating,2-Slight,P03,2.0
+P03,post,10,Fullness of the Head,2-Slight,P03,2.0
+P03,post,11,Blurred vision,1-None,P03,1.0
+P03,post,12,Dizziness with eyes open,1-None,P03,1.0
+P03,post,13,Dizziness with eyes closed,1-None,P03,1.0
+P03,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P03,1.0
+P03,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P03,1.0
+P03,post,16,Burping,1-None,P03,1.0
+P03,pre,1,What is your age? (in years),28,P04,28.0
+P03,pre,2,What is your gender?,Female,P04,
+P03,pre,3,What is your highest level of education completed?,Bachelor's degree,P04,
+P03,pre,4,How much experience do you have using VR?,6-20 times,P04,6.0
+P03,pre,5,How often have you used VR in the past 6 months?,Less than once a month,P04,
+P04,post,1,General discomfort,3-Moderate,P04,3.0
+P04,post,2,Fatigue,3-Moderate,P04,3.0
+P04,post,3,Headache,4-Severe,P04,4.0
+P04,post,4,Eye strain,1-None,P04,1.0
+P04,post,5,Difficulty focusing,1-None,P04,1.0
+P04,post,6,Salivation increasing,1-None,P04,1.0
+P04,post,7,Sweating,1-None,P04,1.0
+P04,post,8,Nausea,2-Slight,P04,2.0
+P04,post,9,Difficulty concentrating,2-Slight,P04,2.0
+P04,post,10,Fullness of the Head,2-Slight,P04,2.0
+P04,post,11,Blurred vision,2-Slight,P04,2.0
+P04,post,12,Dizziness with eyes open,2-Slight,P04,2.0
+P04,post,13,Dizziness with eyes closed,1-None,P04,1.0
+P04,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),2-Slight,P04,2.0
+P04,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P04,1.0
+P04,post,16,Burping,1-None,P04,1.0
+P22,pre,1,What is your age? (in years),36,P22,36.0
+P22,pre,2,What is your gender?,Male,P22,
+P22,pre,3,What is your highest level of education completed?,Master's degree,P22,
+P22,pre,4,How much experience do you have using VR?,21+ times,P22,21.0
+P22,pre,5,How often have you used VR in the past 6 months?,1-3 times a month,P22,1.0
+P22,post,1,General discomfort,1-None,P22,1.0
+P22,post,2,Fatigue,2-Slight,P22,2.0
+P22,post,3,Headache,1-None,P22,1.0
+P22,post,4,Eye strain,2-Slight,P22,2.0
+P22,post,5,Difficulty focusing,1-None,P22,1.0
+P22,post,6,Salivation increasing,1-None,P22,1.0
+P22,post,7,Sweating,1-None,P22,1.0
+P22,post,8,Nausea,1-None,P22,1.0
+P22,post,9,Difficulty concentrating,1-None,P22,1.0
+P22,post,10,Fullness of the Head,2-Slight,P22,2.0
+P22,post,11,Blurred vision,1-None,P22,1.0
+P22,post,12,Dizziness with eyes open,1-None,P22,1.0
+P22,post,13,Dizziness with eyes closed,1-None,P22,1.0
+P22,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P22,1.0
+P22,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P22,1.0
+P22,post,16,Burping,1-None,P22,1.0
+P25,pre,1,What is your age? (in years),25,P25,25.0
+P25,pre,2,What is your gender?,Female,P25,
+P25,pre,3,What is your highest level of education completed?,Master's degree,P25,
+P25,pre,4,How much experience do you have using VR?,1-5 times,P25,1.0
+P25,pre,5,How often have you used VR in the past 6 months?,Never,P25,
+P25,post,1,General discomfort,2-Slight,P25,2.0
+P25,post,2,Fatigue,2-Slight,P25,2.0
+P25,post,3,Headache,1-None,P25,1.0
+P25,post,4,Eye strain,1-None,P25,1.0
+P25,post,5,Difficulty focusing,1-None,P25,1.0
+P25,post,6,Salivation increasing,1-None,P25,1.0
+P25,post,7,Sweating,1-None,P25,1.0
+P25,post,8,Nausea,1-None,P25,1.0
+P25,post,9,Difficulty concentrating,1-None,P25,1.0
+P25,post,10,Fullness of the Head,1-None,P25,1.0
+P25,post,11,Blurred vision,1-None,P25,1.0
+P25,post,12,Dizziness with eyes open,1-None,P25,1.0
+P25,post,13,Dizziness with eyes closed,1-None,P25,1.0
+P25,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P25,1.0
+P25,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P25,1.0
+P25,post,16,Burping,1-None,P25,1.0
+P13,pre,1,What is your age? (in years),43,P13,43.0
+P13,pre,2,What is your gender?,Male,P13,
+P13,pre,3,What is your highest level of education completed?,Doctoral degree,P13,
+P13,pre,4,How much experience do you have using VR?,21+ times,P13,21.0
+P13,pre,5,How often have you used VR in the past 6 months?,Less than once a month,P13,
+P13,post,1,General discomfort,2-Slight,P13,2.0
+P13,post,2,Fatigue,2-Slight,P13,2.0
+P13,post,3,Headache,2-Slight,P13,2.0
+P13,post,4,Eye strain,3-Moderate,P13,3.0
+P13,post,5,Difficulty focusing,1-None,P13,1.0
+P13,post,6,Salivation increasing,1-None,P13,1.0
+P13,post,7,Sweating,1-None,P13,1.0
+P13,post,8,Nausea,1-None,P13,1.0
+P13,post,9,Difficulty concentrating,1-None,P13,1.0
+P13,post,10,Fullness of the Head,2-Slight,P13,2.0
+P13,post,11,Blurred vision,2-Slight,P13,2.0
+P13,post,12,Dizziness with eyes open,2-Slight,P13,2.0
+P13,post,13,Dizziness with eyes closed,2-Slight,P13,2.0
+P13,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P13,1.0
+P13,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P13,1.0
+P13,post,16,Burping,1-None,P13,1.0
+P14,pre,1,What is your age? (in years),25,P14,25.0
+P14,pre,2,What is your gender?,Male,P14,
+P14,pre,3,What is your highest level of education completed?,Master's degree,P14,
+P14,pre,4,How much experience do you have using VR?,1-5 times,P14,1.0
+P14,pre,5,How often have you used VR in the past 6 months?,Never,P14,
+P14,post,1,General discomfort,2-Slight,P14,2.0
+P14,post,2,Fatigue,2-Slight,P14,2.0
+P14,post,3,Headache,1-None,P14,1.0
+P14,post,4,Eye strain,2-Slight,P14,2.0
+P14,post,5,Difficulty focusing,1-None,P14,1.0
+P14,post,6,Salivation increasing,1-None,P14,1.0
+P14,post,7,Sweating,1-None,P14,1.0
+P14,post,8,Nausea,1-None,P14,1.0
+P14,post,9,Difficulty concentrating,2-Slight,P14,2.0
+P14,post,10,Fullness of the Head,2-Slight,P14,2.0
+P14,post,11,Blurred vision,1-None,P14,1.0
+P14,post,12,Dizziness with eyes open,1-None,P14,1.0
+P14,post,13,Dizziness with eyes closed,1-None,P14,1.0
+P14,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P14,1.0
+P14,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P14,1.0
+P14,post,16,Burping,1-None,P14,1.0
+P15,pre,1,What is your age? (in years),29,P15,29.0
+P15,pre,2,What is your gender?,Female,P15,
+P15,pre,3,What is your highest level of education completed?,Other: MBO,P15,
+P15,pre,4,How much experience do you have using VR?,1-5 times,P15,1.0
+P15,pre,5,How often have you used VR in the past 6 months?,Never,P15,
+P15,post,1,General discomfort,3-Moderate,P15,3.0
+P15,post,2,Fatigue,2-Slight,P15,2.0
+P15,post,3,Headache,3-Moderate,P15,3.0
+P15,post,4,Eye strain,3-Moderate,P15,3.0
+P15,post,5,Difficulty focusing,3-Moderate,P15,3.0
+P15,post,6,Salivation increasing,2-Slight,P15,2.0
+P15,post,7,Sweating,1-None,P15,1.0
+P15,post,8,Nausea,1-None,P15,1.0
+P15,post,9,Difficulty concentrating,3-Moderate,P15,3.0
+P15,post,10,Fullness of the Head,2-Slight,P15,2.0
+P15,post,11,Blurred vision,1-None,P15,1.0
+P15,post,12,Dizziness with eyes open,1-None,P15,1.0
+P15,post,13,Dizziness with eyes closed,1-None,P15,1.0
+P15,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),2-Slight,P15,2.0
+P15,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P15,1.0
+P15,post,16,Burping,1-None,P15,1.0
+P12,pre,1,What is your age? (in years),25,P12,25.0
+P12,pre,2,What is your gender?,Female,P12,
+P12,pre,3,What is your highest level of education completed?,Master's degree,P12,
+P12,pre,4,How much experience do you have using VR?,1-5 times,P12,1.0
+P12,pre,5,How often have you used VR in the past 6 months?,Less than once a month,P12,
+P12,post,1,General discomfort,2-Slight,P12,2.0
+P12,post,2,Fatigue,3-Moderate,P12,3.0
+P12,post,3,Headache,2-Slight,P12,2.0
+P12,post,4,Eye strain,4-Severe,P12,4.0
+P12,post,5,Difficulty focusing,2-Slight,P12,2.0
+P12,post,6,Salivation increasing,1-None,P12,1.0
+P12,post,7,Sweating,1-None,P12,1.0
+P12,post,8,Nausea,1-None,P12,1.0
+P12,post,9,Difficulty concentrating,2-Slight,P12,2.0
+P12,post,10,Fullness of the Head,3-Moderate,P12,3.0
+P12,post,11,Blurred vision,1-None,P12,1.0
+P12,post,12,Dizziness with eyes open,3-Moderate,P12,3.0
+P12,post,13,Dizziness with eyes closed,1-None,P12,1.0
+P12,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P12,1.0
+P12,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),2-Slight,P12,2.0
+P12,post,16,Burping,1-None,P12,1.0
+P24,pre,1,What is your age? (in years),60,P24,60.0
+P24,pre,2,What is your gender?,Female,P24,
+P24,pre,3,What is your highest level of education completed?,Master's degree,P24,
+P24,pre,4,How much experience do you have using VR?,1-5 times,P24,1.0
+P24,pre,5,How often have you used VR in the past 6 months?,Less than once a month,P24,
+P24,post,1,General discomfort,1-None,P24,1.0
+P24,post,2,Fatigue,1-None,P24,1.0
+P24,post,3,Headache,2-Slight,P24,2.0
+P24,post,4,Eye strain,1-None,P24,1.0
+P24,post,5,Difficulty focusing,1-None,P24,1.0
+P24,post,6,Salivation increasing,1-None,P24,1.0
+P24,post,7,Sweating,1-None,P24,1.0
+P24,post,8,Nausea,1-None,P24,1.0
+P24,post,9,Difficulty concentrating,1-None,P24,1.0
+P24,post,10,Fullness of the Head,1-None,P24,1.0
+P24,post,11,Blurred vision,1-None,P24,1.0
+P24,post,12,Dizziness with eyes open,1-None,P24,1.0
+P24,post,13,Dizziness with eyes closed,1-None,P24,1.0
+P24,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P24,1.0
+P24,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P24,1.0
+P24,post,16,Burping,1-None,P24,1.0
+P08,pre,1,What is your age? (in years),28,P23,28.0
+P08,pre,2,What is your gender?,Female,P23,
+P08,pre,3,What is your highest level of education completed?,Master's degree,P23,
+P08,pre,4,How much experience do you have using VR?,1-5 times,P23,1.0
+P08,pre,5,How often have you used VR in the past 6 months?,Never,P23,
+P23,post,1,General discomfort,1-None,P23,1.0
+P23,post,2,Fatigue,1-None,P23,1.0
+P23,post,3,Headache,2-Slight,P23,2.0
+P23,post,4,Eye strain,2-Slight,P23,2.0
+P23,post,5,Difficulty focusing,3-Moderate,P23,3.0
+P23,post,6,Salivation increasing,1-None,P23,1.0
+P23,post,7,Sweating,1-None,P23,1.0
+P23,post,8,Nausea,1-None,P23,1.0
+P23,post,9,Difficulty concentrating,3-Moderate,P23,3.0
+P23,post,10,Fullness of the Head,1-None,P23,1.0
+P23,post,11,Blurred vision,1-None,P23,1.0
+P23,post,12,Dizziness with eyes open,1-None,P23,1.0
+P23,post,13,Dizziness with eyes closed,1-None,P23,1.0
+P23,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P23,1.0
+P23,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P23,1.0
+P23,post,16,Burping,1-None,P23,1.0
+P01,pre,1,What is your age? (in years),29,P01,29.0
+P01,pre,2,What is your gender?,Male,P01,
+P01,pre,3,What is your highest level of education completed?,Master's degree,P01,
+P01,pre,4,How much experience do you have using VR?,Never,P01,
+P01,pre,5,How often have you used VR in the past 6 months?,Never,P01,
+P01,post,1,General discomfort,2-Slight,P01,2.0
+P01,post,2,Fatigue,2-Slight,P01,2.0
+P01,post,3,Headache,1-None,P01,1.0
+P01,post,4,Eye strain,2-Slight,P01,2.0
+P01,post,5,Difficulty focusing,2-Slight,P01,2.0
+P01,post,6,Salivation increasing,1-None,P01,1.0
+P01,post,7,Sweating,2-Slight,P01,2.0
+P01,post,8,Nausea,1-None,P01,1.0
+P01,post,9,Difficulty concentrating,2-Slight,P01,2.0
+P01,post,10,Fullness of the Head,1-None,P01,1.0
+P01,post,11,Blurred vision,2-Slight,P01,2.0
+P01,post,12,Dizziness with eyes open,1-None,P01,1.0
+P01,post,13,Dizziness with eyes closed,1-None,P01,1.0
+P01,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P01,1.0
+P01,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P01,1.0
+P01,post,16,Burping,1-None,P01,1.0
+P02,pre,1,What is your age? (in years),38,P06,38.0
+P02,pre,2,What is your gender?,Male,P06,
+P02,pre,3,What is your highest level of education completed?,Doctoral degree,P06,
+P02,pre,4,How much experience do you have using VR?,21+ times,P06,21.0
+P02,pre,5,How often have you used VR in the past 6 months?,3+ times a week,P06,3.0
+P06,post,1,General discomfort,2-Slight,P06,2.0
+P06,post,2,Fatigue,2-Slight,P06,2.0
+P06,post,3,Headache,1-None,P06,1.0
+P06,post,4,Eye strain,1-None,P06,1.0
+P06,post,5,Difficulty focusing,1-None,P06,1.0
+P06,post,6,Salivation increasing,1-None,P06,1.0
+P06,post,7,Sweating,1-None,P06,1.0
+P06,post,8,Nausea,1-None,P06,1.0
+P06,post,9,Difficulty concentrating,1-None,P06,1.0
+P06,post,10,Fullness of the Head,1-None,P06,1.0
+P06,post,11,Blurred vision,1-None,P06,1.0
+P06,post,12,Dizziness with eyes open,1-None,P06,1.0
+P06,post,13,Dizziness with eyes closed,1-None,P06,1.0
+P06,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),2-Slight,P06,2.0
+P06,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P06,1.0
+P06,post,16,Burping,1-None,P06,1.0
+P30,pre,1,What is your age? (in years),26,P30,26.0
+P30,pre,2,What is your gender?,Male,P30,
+P30,pre,3,What is your highest level of education completed?,Master's degree,P30,
+P30,pre,4,How much experience do you have using VR?,1-5 times,P30,1.0
+P30,pre,5,How often have you used VR in the past 6 months?,Never,P30,
+P30,post,1,General discomfort,1-None,P30,1.0
+P30,post,2,Fatigue,1-None,P30,1.0
+P30,post,3,Headache,1-None,P30,1.0
+P30,post,4,Eye strain,2-Slight,P30,2.0
+P30,post,5,Difficulty focusing,1-None,P30,1.0
+P30,post,6,Salivation increasing,1-None,P30,1.0
+P30,post,7,Sweating,2-Slight,P30,2.0
+P30,post,8,Nausea,1-None,P30,1.0
+P30,post,9,Difficulty concentrating,1-None,P30,1.0
+P30,post,10,Fullness of the Head,1-None,P30,1.0
+P30,post,11,Blurred vision,1-None,P30,1.0
+P30,post,12,Dizziness with eyes open,1-None,P30,1.0
+P30,post,13,Dizziness with eyes closed,1-None,P30,1.0
+P30,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P30,1.0
+P30,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),1-None,P30,1.0
+P30,post,16,Burping,1-None,P30,1.0
+P09,pre,1,What is your age? (in years),24,P09,24.0
+P09,pre,2,What is your gender?,Male,P09,
+P09,pre,3,What is your highest level of education completed?,Master's degree,P09,
+P09,pre,4,How much experience do you have using VR?,1-5 times,P09,1.0
+P09,pre,5,How often have you used VR in the past 6 months?,Never,P09,
+P09,post,1,General discomfort,3-Moderate,P09,3.0
+P09,post,2,Fatigue,2-Slight,P09,2.0
+P09,post,3,Headache,1-None,P09,1.0
+P09,post,4,Eye strain,2-Slight,P09,2.0
+P09,post,5,Difficulty focusing,2-Slight,P09,2.0
+P09,post,6,Salivation increasing,1-None,P09,1.0
+P09,post,7,Sweating,2-Slight,P09,2.0
+P09,post,8,Nausea,2-Slight,P09,2.0
+P09,post,9,Difficulty concentrating,2-Slight,P09,2.0
+P09,post,10,Fullness of the Head,2-Slight,P09,2.0
+P09,post,11,Blurred vision,3-Moderate,P09,3.0
+P09,post,12,Dizziness with eyes open,2-Slight,P09,2.0
+P09,post,13,Dizziness with eyes closed,1-None,P09,1.0
+P09,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),2-Slight,P09,2.0
+P09,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),2-Slight,P09,2.0
+P09,post,16,Burping,2-Slight,P09,2.0
+P07,pre,1,What is your age? (in years),28,P07,28.0
+P07,pre,2,What is your gender?,Female,P07,
+P07,pre,3,What is your highest level of education completed?,Master's degree,P07,
+P07,pre,4,How much experience do you have using VR?,21+ times,P07,21.0
+P07,pre,5,How often have you used VR in the past 6 months?,1-3 times a month,P07,1.0
+P07,post,1,General discomfort,1-None,P07,1.0
+P07,post,2,Fatigue,1-None,P07,1.0
+P07,post,3,Headache,1-None,P07,1.0
+P07,post,4,Eye strain,2-Slight,P07,2.0
+P07,post,5,Difficulty focusing,1-None,P07,1.0
+P07,post,6,Salivation increasing,1-None,P07,1.0
+P07,post,7,Sweating,1-None,P07,1.0
+P07,post,8,Nausea,1-None,P07,1.0
+P07,post,9,Difficulty concentrating,1-None,P07,1.0
+P07,post,10,Fullness of the Head,1-None,P07,1.0
+P07,post,11,Blurred vision,1-None,P07,1.0
+P07,post,12,Dizziness with eyes open,1-None,P07,1.0
+P07,post,13,Dizziness with eyes closed,1-None,P07,1.0
+P07,post,14,Vertigo (experienced as loss of orientation with respect to vertical upright),1-None,P07,1.0
+P07,post,15,Stomach awareness (feeling of discomfort which is just short of nausea),2-Slight,P07,2.0
+P07,post,16,Burping,1-None,P07,1.0
